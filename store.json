@@ -1,14 +1,14 @@
 [
   {
-    "title": "Test de Geografía Mundial",
-    "author": "Colaborador1",
-    "description": "Un test completo sobre capitales y países.",
-    "file_url": "https://raw.githubusercontent.com/tu-usuario/tu-repo/main/tests/geografia.json"
+    "title": "¿Qué tipo de personaje de comedia animada eres?"",
+    "author": "King",
+    "description": "Test de personalidad ACC (Animate comedy character)",
+    "file_url": "https://raw.githubusercontent.com/kingorange6781-a11y/King-test-store/refs/heads/main/Personalidad_11.json"
   },
   {
-    "title": "Programación Básica en Python",
-    "author": "Maicol",
-    "description": "Preguntas clave sobre sintaxis y tipos de datos.",
-    "file_url": "https://raw.githubusercontent.com/tu-usuario/tu-repo/main/tests/python.json"
+    "title": "¿Qué género de videojuego encaja contigo?",
+    "author": "King",
+    "description": "Test de personalidad GVG (GENDER OF VIDEO GAME)",
+    "file_url": "https://github.com/kingorange6781-a11y/King-test-store/raw/refs/heads/main/Personalidad_12.json"
   }
 ]
