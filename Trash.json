@@ -1,0 +1,16 @@
+{
+  "title": "empanada prueba",
+  "questions": [
+    {
+      "question": "Cuanto es 67 + 67",
+      "options": [
+        "NOSE",
+        "six seven",
+        "skibidi toilet",
+        "134"
+      ],
+      "answer": 0,
+      "explanation": "XD"
+    }
+  ]
+}
