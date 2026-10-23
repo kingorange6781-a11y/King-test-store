@@ -1,0 +1,399 @@
+{
+  "title": "¿Qué fortaleza mental se te da más naturalmente?",
+  "type": "personality",
+  "questions": [
+    {
+      "question": "Te presentan un problema con muchas piezas. ¿Cómo empiezas?",
+      "options": [
+        {
+          "text": "Mi manera de abordarlo sería: elijo una meta clara y empiezo a avanzar.",
+          "result": "Habilidad práctica"
+        },
+        {
+          "text": "En ese caso, mantengo la calma y resuelvo lo más urgente primero.",
+          "result": "Pensamiento reflexivo"
+        },
+        {
+          "text": "Para responder, busco una idea inesperada que cambie el enfoque.",
+          "result": "Imaginación creativa"
+        },
+        {
+          "text": "En esta situación, primero comparo los datos y busco qué encaja.",
+          "result": "Pensamiento analítico"
+        },
+        {
+          "text": "Lo primero sería que primero me fijo en cómo afecta al resto del grupo.",
+          "result": "Inteligencia interpersonal"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué tipo de tarea suele hacerte sentir más capaz?",
+      "options": [
+        {
+          "text": "En esta situación, no me apuro: observo la situación y luego decido.",
+          "result": "Pensamiento reflexivo"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: pregunto qué necesita cada persona antes de actuar.",
+          "result": "Inteligencia interpersonal"
+        },
+        {
+          "text": "Para responder, separo el problema en partes más pequeñas.",
+          "result": "Pensamiento analítico"
+        },
+        {
+          "text": "En ese caso, sigo practicando hasta mejorar el resultado.",
+          "result": "Habilidad práctica"
+        },
+        {
+          "text": "Lo primero sería que imagino varias posibilidades antes de escoger una.",
+          "result": "Imaginación creativa"
+        }
+      ]
+    },
+    {
+      "question": "Un proyecto admite varias respuestas válidas. ¿Cómo eliges?",
+      "options": [
+        {
+          "text": "Lo primero sería que busco una pista verificable antes de decidir.",
+          "result": "Pensamiento analítico"
+        },
+        {
+          "text": "En ese caso, intento que nadie se quede fuera.",
+          "result": "Inteligencia interpersonal"
+        },
+        {
+          "text": "Para responder, busco la opción sencilla que funcione de verdad.",
+          "result": "Pensamiento reflexivo"
+        },
+        {
+          "text": "En esta situación, acepto el desafío y doy lo mejor de mí.",
+          "result": "Habilidad práctica"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: intento convertirlo en algo original y memorable.",
+          "result": "Imaginación creativa"
+        }
+      ]
+    },
+    {
+      "question": "Alguien explica una idea muy complicada. ¿Cómo la procesas?",
+      "options": [
+        {
+          "text": "Lo primero sería que me adapto sin hacer un drama del cambio.",
+          "result": "Pensamiento reflexivo"
+        },
+        {
+          "text": "En esta situación, escucho las opiniones y busco un punto en común.",
+          "result": "Inteligencia interpersonal"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: hago una lista breve de ventajas y riesgos.",
+          "result": "Pensamiento analítico"
+        },
+        {
+          "text": "En ese caso, pruebo una combinación que no se le ocurrió al grupo.",
+          "result": "Imaginación creativa"
+        },
+        {
+          "text": "Para responder, me concentro en lo que puedo controlar.",
+          "result": "Habilidad práctica"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué clase de rompecabezas te gustaría resolver?",
+      "options": [
+        {
+          "text": "En ese caso, intento entender qué causó la situación.",
+          "result": "Pensamiento analítico"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: prefiero probar algo tranquilo antes de complicarlo.",
+          "result": "Pensamiento reflexivo"
+        },
+        {
+          "text": "Para responder, ofrezco ayuda sin obligar a nadie a aceptarla.",
+          "result": "Inteligencia interpersonal"
+        },
+        {
+          "text": "En esta situación, me gusta darle mi propio estilo.",
+          "result": "Imaginación creativa"
+        },
+        {
+          "text": "Lo primero sería que divido el objetivo en pasos y los voy cumpliendo.",
+          "result": "Habilidad práctica"
+        }
+      ]
+    },
+    {
+      "question": "En una conversación grupal, ¿qué notas con facilidad?",
+      "options": [
+        {
+          "text": "Mi manera de abordarlo sería: si falla la primera idea, intento otra sin rendirme.",
+          "result": "Habilidad práctica"
+        },
+        {
+          "text": "Para responder, propongo un giro que vuelva la situación más interesante.",
+          "result": "Imaginación creativa"
+        },
+        {
+          "text": "Lo primero sería que doy ánimo y recuerdo lo que ya hemos logrado.",
+          "result": "Inteligencia interpersonal"
+        },
+        {
+          "text": "En ese caso, me doy un momento para pensar con claridad.",
+          "result": "Pensamiento reflexivo"
+        },
+        {
+          "text": "En esta situación, compruebo los detalles que otros podrían pasar por alto.",
+          "result": "Pensamiento analítico"
+        }
+      ]
+    },
+    {
+      "question": "¿Cómo aprendes a utilizar una herramienta nueva?",
+      "options": [
+        {
+          "text": "En esta situación, no necesito que todo salga perfecto para disfrutarlo.",
+          "result": "Pensamiento reflexivo"
+        },
+        {
+          "text": "Para responder, pienso en dos explicaciones y veo cuál tiene más pruebas.",
+          "result": "Pensamiento analítico"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: me aseguro de que todos entiendan lo que ocurre.",
+          "result": "Inteligencia interpersonal"
+        },
+        {
+          "text": "En ese caso, me preparo para llegar con más confianza.",
+          "result": "Habilidad práctica"
+        },
+        {
+          "text": "Lo primero sería que improviso con lo que tengo a mano.",
+          "result": "Imaginación creativa"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué actividad te ayuda a ordenar tus pensamientos?",
+      "options": [
+        {
+          "text": "Mi manera de abordarlo sería: me pregunto qué pasaría si lo hiciéramos de otra manera.",
+          "result": "Imaginación creativa"
+        },
+        {
+          "text": "Para responder, si hace falta, cambio el plan y sigo con mi día.",
+          "result": "Pensamiento reflexivo"
+        },
+        {
+          "text": "En ese caso, pienso cómo resolverlo sin dañar la confianza.",
+          "result": "Inteligencia interpersonal"
+        },
+        {
+          "text": "En esta situación, tomo una decisión y asumo la responsabilidad.",
+          "result": "Habilidad práctica"
+        },
+        {
+          "text": "Lo primero sería que prefiero un método que pueda repetir y revisar.",
+          "result": "Pensamiento analítico"
+        }
+      ]
+    },
+    {
+      "question": "Una solución no funciona. ¿Qué haces?",
+      "options": [
+        {
+          "text": "Lo primero sería que elijo lo que sea más práctico para este momento.",
+          "result": "Pensamiento reflexivo"
+        },
+        {
+          "text": "Para responder, prefiero actuar con intención en vez de quedarme esperando.",
+          "result": "Habilidad práctica"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: me detengo a aclarar qué información falta.",
+          "result": "Pensamiento analítico"
+        },
+        {
+          "text": "En ese caso, conecto ideas que al principio parecen separadas.",
+          "result": "Imaginación creativa"
+        },
+        {
+          "text": "En esta situación, le doy espacio a quien necesita hablar.",
+          "result": "Inteligencia interpersonal"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué te atrae de una idea interesante?",
+      "options": [
+        {
+          "text": "Mi manera de abordarlo sería: hago mi parte y dejo margen para descansar.",
+          "result": "Pensamiento reflexivo"
+        },
+        {
+          "text": "En ese caso, ordeno las opciones y elijo la más coherente.",
+          "result": "Pensamiento analítico"
+        },
+        {
+          "text": "Lo primero sería que mantengo el esfuerzo aunque el progreso sea lento.",
+          "result": "Habilidad práctica"
+        },
+        {
+          "text": "En esta situación, elijo la opción que abre más posibilidades.",
+          "result": "Imaginación creativa"
+        },
+        {
+          "text": "Para responder, busco una solución que sea justa para los implicados.",
+          "result": "Inteligencia interpersonal"
+        }
+      ]
+    },
+    {
+      "question": "Tú y un amigo interpretan una situación de maneras distintas. ¿Cómo conversan?",
+      "options": [
+        {
+          "text": "En esta situación, reviso lo que ya sabemos antes de dar otro paso.",
+          "result": "Pensamiento analítico"
+        },
+        {
+          "text": "Lo primero sería que coordino con los demás en vez de hacerlo todo por mi cuenta.",
+          "result": "Inteligencia interpersonal"
+        },
+        {
+          "text": "Para responder, hago un pequeño experimento para inspirarme.",
+          "result": "Imaginación creativa"
+        },
+        {
+          "text": "En ese caso, intento no convertir un contratiempo en una catástrofe.",
+          "result": "Pensamiento reflexivo"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: repaso mis errores para no repetirlos.",
+          "result": "Habilidad práctica"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué rol ocuparías al construir algo desde cero?",
+      "options": [
+        {
+          "text": "En esta situación, me fijo en lo que sí está saliendo bien.",
+          "result": "Pensamiento reflexivo"
+        },
+        {
+          "text": "Para responder, hago una prueba pequeña para comprobar mi idea.",
+          "result": "Pensamiento analítico"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: agradezco los aportes que suelen pasar desapercibidos.",
+          "result": "Inteligencia interpersonal"
+        },
+        {
+          "text": "En ese caso, doy el primer paso y ajusto después si hace falta.",
+          "result": "Habilidad práctica"
+        },
+        {
+          "text": "Lo primero sería que prefiero crear una solución propia a copiar una ya hecha.",
+          "result": "Imaginación creativa"
+        }
+      ]
+    },
+    {
+      "question": "¿Cómo decides si una afirmación es confiable?",
+      "options": [
+        {
+          "text": "En ese caso, intento bajar la tensión antes de continuar.",
+          "result": "Inteligencia interpersonal"
+        },
+        {
+          "text": "Para responder, puedo esperar hasta tener una razón clara para actuar.",
+          "result": "Pensamiento reflexivo"
+        },
+        {
+          "text": "Lo primero sería que cambio de opinión si aparecen mejores evidencias.",
+          "result": "Pensamiento analítico"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: uso el error como punto de partida para otra idea.",
+          "result": "Imaginación creativa"
+        },
+        {
+          "text": "En esta situación, me motiva comprobar que he mejorado.",
+          "result": "Habilidad práctica"
+        }
+      ]
+    },
+    {
+      "question": "Después de una experiencia difícil, ¿qué te ayuda más?",
+      "options": [
+        {
+          "text": "En ese caso, busco una forma visual o divertida de expresarlo.",
+          "result": "Imaginación creativa"
+        },
+        {
+          "text": "Para responder, sigo adelante, pero pido ayuda si de verdad la necesito.",
+          "result": "Habilidad práctica"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: busco una solución clara, no solo la más rápida.",
+          "result": "Pensamiento analítico"
+        },
+        {
+          "text": "En esta situación, prefiero una victoria compartida a dejar a alguien atrás.",
+          "result": "Inteligencia interpersonal"
+        },
+        {
+          "text": "Lo primero sería que resuelvo lo que puedo y no me cargo con lo que no controlo.",
+          "result": "Pensamiento reflexivo"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué habilidad te gustaría desarrollar este año?",
+      "options": [
+        {
+          "text": "Mi manera de abordarlo sería: me quedo con la experiencia y sigo adelante.",
+          "result": "Pensamiento reflexivo"
+        },
+        {
+          "text": "Lo primero sería que termino evaluando qué puedo hacer mejor la próxima vez.",
+          "result": "Habilidad práctica"
+        },
+        {
+          "text": "Para responder, después, compruebo que todos estén bien.",
+          "result": "Inteligencia interpersonal"
+        },
+        {
+          "text": "En esta situación, me quedo con la idea que despierta más curiosidad.",
+          "result": "Imaginación creativa"
+        },
+        {
+          "text": "En ese caso, al final, reviso qué aprendí para la próxima vez.",
+          "result": "Pensamiento analítico"
+        }
+      ]
+    }
+  ],
+  "results": {
+    "Pensamiento analítico": {
+      "description": "Disfrutas comparar evidencias, detectar patrones y comprender causas."
+    },
+    "Imaginación creativa": {
+      "description": "Generas ideas nuevas y conectas elementos poco obvios."
+    },
+    "Inteligencia interpersonal": {
+      "description": "Notas las perspectivas de los demás y ajustas cómo te comunicas."
+    },
+    "Habilidad práctica": {
+      "description": "Aprendes probando, construyendo y resolviendo tareas concretas."
+    },
+    "Pensamiento reflexivo": {
+      "description": "Te tomas tiempo para integrar experiencias y buscar significado."
+    }
+  },
+  "scoring_note": "Cuenta qué resultado aparece más veces en las opciones elegidas. Empates pueden mostrarse como resultados compartidos."
+}

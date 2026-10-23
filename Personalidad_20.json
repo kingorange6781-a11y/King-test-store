@@ -1,0 +1,399 @@
+{
+  "title": "¿Qué personaje de Avatar: La leyenda de Aang serías?",
+  "type": "personality",
+  "questions": [
+    {
+      "question": "El grupo debe llegar a una ciudad nueva sin llamar demasiado la atención. ¿Qué haces?",
+      "options": [
+        {
+          "text": "En ese caso, elijo una meta clara y empiezo a avanzar.",
+          "result": "Zuko"
+        },
+        {
+          "text": "Para responder, primero me fijo en cómo afecta al resto del grupo.",
+          "result": "Katara"
+        },
+        {
+          "text": "En esta situación, busco una idea inesperada que cambie el enfoque.",
+          "result": "Aang"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: elijo una meta clara y empiezo a avanzar.",
+          "result": "Toph"
+        },
+        {
+          "text": "Lo primero sería que primero comparo los datos y busco qué encaja.",
+          "result": "Sokka"
+        }
+      ]
+    },
+    {
+      "question": "Un compañero está triste tras fallar en un entrenamiento. ¿Cómo lo apoyas?",
+      "options": [
+        {
+          "text": "En esta situación, sigo practicando hasta mejorar el resultado.",
+          "result": "Zuko"
+        },
+        {
+          "text": "En ese caso, sigo practicando hasta mejorar el resultado.",
+          "result": "Toph"
+        },
+        {
+          "text": "Para responder, imagino varias posibilidades antes de escoger una.",
+          "result": "Aang"
+        },
+        {
+          "text": "Lo primero sería que pregunto qué necesita cada persona antes de actuar.",
+          "result": "Katara"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: separo el problema en partes más pequeñas.",
+          "result": "Sokka"
+        }
+      ]
+    },
+    {
+      "question": "El plan necesita una idea que nadie había considerado. ¿Qué propones?",
+      "options": [
+        {
+          "text": "En esta situación, acepto el desafío y doy lo mejor de mí.",
+          "result": "Toph"
+        },
+        {
+          "text": "Para responder, acepto el desafío y doy lo mejor de mí.",
+          "result": "Zuko"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: intento que nadie se quede fuera.",
+          "result": "Katara"
+        },
+        {
+          "text": "Lo primero sería que intento convertirlo en algo original y memorable.",
+          "result": "Aang"
+        },
+        {
+          "text": "En ese caso, busco una pista verificable antes de decidir.",
+          "result": "Sokka"
+        }
+      ]
+    },
+    {
+      "question": "Alguien intenta decirte cómo debes vivir tu vida. ¿Cómo respondes?",
+      "options": [
+        {
+          "text": "Para responder, me concentro en lo que puedo controlar.",
+          "result": "Toph"
+        },
+        {
+          "text": "En ese caso, escucho las opiniones y busco un punto en común.",
+          "result": "Katara"
+        },
+        {
+          "text": "Lo primero sería que me concentro en lo que puedo controlar.",
+          "result": "Zuko"
+        },
+        {
+          "text": "En esta situación, hago una lista breve de ventajas y riesgos.",
+          "result": "Sokka"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: pruebo una combinación que no se le ocurrió al grupo.",
+          "result": "Aang"
+        }
+      ]
+    },
+    {
+      "question": "Te das cuenta de que una decisión tuya afectó a otra persona. ¿Qué haces?",
+      "options": [
+        {
+          "text": "En ese caso, me gusta darle mi propio estilo.",
+          "result": "Aang"
+        },
+        {
+          "text": "Para responder, intento entender qué causó la situación.",
+          "result": "Sokka"
+        },
+        {
+          "text": "Lo primero sería que divido el objetivo en pasos y los voy cumpliendo.",
+          "result": "Toph"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: divido el objetivo en pasos y los voy cumpliendo.",
+          "result": "Zuko"
+        },
+        {
+          "text": "En esta situación, ofrezco ayuda sin obligar a nadie a aceptarla.",
+          "result": "Katara"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué tipo de entrenamiento ficticio elegirías?",
+      "options": [
+        {
+          "text": "En ese caso, si falla la primera idea, intento otra sin rendirme.",
+          "result": "Zuko"
+        },
+        {
+          "text": "En esta situación, propongo un giro que vuelva la situación más interesante.",
+          "result": "Aang"
+        },
+        {
+          "text": "Lo primero sería que compruebo los detalles que otros podrían pasar por alto.",
+          "result": "Sokka"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: si falla la primera idea, intento otra sin rendirme.",
+          "result": "Toph"
+        },
+        {
+          "text": "Para responder, doy ánimo y recuerdo lo que ya hemos logrado.",
+          "result": "Katara"
+        }
+      ]
+    },
+    {
+      "question": "Dos grupos tienen un conflicto que parece no tener salida. ¿Cómo ayudas?",
+      "options": [
+        {
+          "text": "Mi manera de abordarlo sería: pienso en dos explicaciones y veo cuál tiene más pruebas.",
+          "result": "Sokka"
+        },
+        {
+          "text": "Para responder, improviso con lo que tengo a mano.",
+          "result": "Aang"
+        },
+        {
+          "text": "En esta situación, me preparo para llegar con más confianza.",
+          "result": "Zuko"
+        },
+        {
+          "text": "Lo primero sería que me aseguro de que todos entiendan lo que ocurre.",
+          "result": "Katara"
+        },
+        {
+          "text": "En ese caso, me preparo para llegar con más confianza.",
+          "result": "Toph"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué harías al llegar a una región desconocida?",
+      "options": [
+        {
+          "text": "Para responder, tomo una decisión y asumo la responsabilidad.",
+          "result": "Zuko"
+        },
+        {
+          "text": "En esta situación, tomo una decisión y asumo la responsabilidad.",
+          "result": "Toph"
+        },
+        {
+          "text": "En ese caso, prefiero un método que pueda repetir y revisar.",
+          "result": "Sokka"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: pienso cómo resolverlo sin dañar la confianza.",
+          "result": "Katara"
+        },
+        {
+          "text": "Lo primero sería que me pregunto qué pasaría si lo hiciéramos de otra manera.",
+          "result": "Aang"
+        }
+      ]
+    },
+    {
+      "question": "El equipo pierde una herramienta importante durante el viaje. ¿Qué haces?",
+      "options": [
+        {
+          "text": "Lo primero sería que prefiero actuar con intención en vez de quedarme esperando.",
+          "result": "Zuko"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: conecto ideas que al principio parecen separadas.",
+          "result": "Aang"
+        },
+        {
+          "text": "Para responder, prefiero actuar con intención en vez de quedarme esperando.",
+          "result": "Toph"
+        },
+        {
+          "text": "En ese caso, le doy espacio a quien necesita hablar.",
+          "result": "Katara"
+        },
+        {
+          "text": "En esta situación, me detengo a aclarar qué información falta.",
+          "result": "Sokka"
+        }
+      ]
+    },
+    {
+      "question": "¿Cómo te preparas para una prueba difícil?",
+      "options": [
+        {
+          "text": "Para responder, ordeno las opciones y elijo la más coherente.",
+          "result": "Sokka"
+        },
+        {
+          "text": "En ese caso, elijo la opción que abre más posibilidades.",
+          "result": "Aang"
+        },
+        {
+          "text": "En esta situación, busco una solución que sea justa para los implicados.",
+          "result": "Katara"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: mantengo el esfuerzo aunque el progreso sea lento.",
+          "result": "Zuko"
+        },
+        {
+          "text": "Lo primero sería que mantengo el esfuerzo aunque el progreso sea lento.",
+          "result": "Toph"
+        }
+      ]
+    },
+    {
+      "question": "Una persona se niega a escuchar una explicación. ¿Cómo reaccionas?",
+      "options": [
+        {
+          "text": "En ese caso, repaso mis errores para no repetirlos.",
+          "result": "Zuko"
+        },
+        {
+          "text": "Lo primero sería que reviso lo que ya sabemos antes de dar otro paso.",
+          "result": "Sokka"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: repaso mis errores para no repetirlos.",
+          "result": "Toph"
+        },
+        {
+          "text": "Para responder, coordino con los demás en vez de hacerlo todo por mi cuenta.",
+          "result": "Katara"
+        },
+        {
+          "text": "En esta situación, hago un pequeño experimento para inspirarme.",
+          "result": "Aang"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué tipo de habilidad te gustaría dominar?",
+      "options": [
+        {
+          "text": "Para responder, prefiero crear una solución propia a copiar una ya hecha.",
+          "result": "Aang"
+        },
+        {
+          "text": "En esta situación, doy el primer paso y ajusto después si hace falta.",
+          "result": "Zuko"
+        },
+        {
+          "text": "Lo primero sería que agradezco los aportes que suelen pasar desapercibidos.",
+          "result": "Katara"
+        },
+        {
+          "text": "En ese caso, doy el primer paso y ajusto después si hace falta.",
+          "result": "Toph"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: hago una prueba pequeña para comprobar mi idea.",
+          "result": "Sokka"
+        }
+      ]
+    },
+    {
+      "question": "Tu primera interpretación de un problema resulta equivocada. ¿Qué haces?",
+      "options": [
+        {
+          "text": "Para responder, me motiva comprobar que he mejorado.",
+          "result": "Zuko"
+        },
+        {
+          "text": "En ese caso, cambio de opinión si aparecen mejores evidencias.",
+          "result": "Sokka"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: intento bajar la tensión antes de continuar.",
+          "result": "Katara"
+        },
+        {
+          "text": "En esta situación, me motiva comprobar que he mejorado.",
+          "result": "Toph"
+        },
+        {
+          "text": "Lo primero sería que uso el error como punto de partida para otra idea.",
+          "result": "Aang"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué clase de líder admiras?",
+      "options": [
+        {
+          "text": "Para responder, sigo adelante, pero pido ayuda si de verdad la necesito.",
+          "result": "Toph"
+        },
+        {
+          "text": "Lo primero sería que sigo adelante, pero pido ayuda si de verdad la necesito.",
+          "result": "Zuko"
+        },
+        {
+          "text": "En ese caso, prefiero una victoria compartida a dejar a alguien atrás.",
+          "result": "Katara"
+        },
+        {
+          "text": "En esta situación, busco una solución clara, no solo la más rápida.",
+          "result": "Sokka"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: busco una forma visual o divertida de expresarlo.",
+          "result": "Aang"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué aprendizaje te gustaría llevarte de una aventura larga?",
+      "options": [
+        {
+          "text": "En ese caso, me quedo con la idea que despierta más curiosidad.",
+          "result": "Aang"
+        },
+        {
+          "text": "Lo primero sería que termino evaluando qué puedo hacer mejor la próxima vez.",
+          "result": "Toph"
+        },
+        {
+          "text": "Para responder, al final, reviso qué aprendí para la próxima vez.",
+          "result": "Sokka"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: termino evaluando qué puedo hacer mejor la próxima vez.",
+          "result": "Zuko"
+        },
+        {
+          "text": "En esta situación, después, compruebo que todos estén bien.",
+          "result": "Katara"
+        }
+      ]
+    }
+  ],
+  "results": {
+    "Aang": {
+      "description": "Buscas equilibrio, curiosidad y maneras de resolver conflictos sin perder la alegría."
+    },
+    "Katara": {
+      "description": "Eres persistente y te importa que las personas sean tratadas con justicia."
+    },
+    "Sokka": {
+      "description": "Usas planificación, humor e ideas prácticas para ayudar al grupo."
+    },
+    "Toph": {
+      "description": "Valoras la independencia, la franqueza y confiar en tus capacidades."
+    },
+    "Zuko": {
+      "description": "Te tomas en serio el crecimiento personal y revisar quién quieres ser."
+    }
+  },
+  "scoring_note": "Cuenta qué resultado aparece más veces en las opciones elegidas. Empates pueden mostrarse como resultados compartidos."
+}

@@ -1,0 +1,93 @@
+{
+  "title": "Literatura",
+  "questions": [
+    {
+      "question": "¿Quién escribió Don Quijote de la Mancha?",
+      "options": [
+        "Lope de Vega",
+        "Pablo Neruda",
+        "Federico García Lorca",
+        "Miguel de Cervantes"
+      ],
+      "answer": 3,
+      "explanation": "La novela fue escrita por Miguel de Cervantes."
+    },
+    {
+      "question": "¿Quién creó a Sherlock Holmes?",
+      "options": [
+        "Agatha Christie",
+        "J. R. R. Tolkien",
+        "Arthur Conan Doyle",
+        "Mary Shelley"
+      ],
+      "answer": 2,
+      "explanation": "Arthur Conan Doyle creó al detective Sherlock Holmes."
+    },
+    {
+      "question": "¿Qué género suele narrar hechos imaginarios en prosa?",
+      "options": [
+        "Manual técnico siempre",
+        "Noticia siempre",
+        "Novela",
+        "Receta"
+      ],
+      "answer": 2,
+      "explanation": "La novela es una narración extensa de ficción, aunque puede inspirarse en hechos reales."
+    },
+    {
+      "question": "¿Quién escribió Romeo y Julieta?",
+      "options": [
+        "Jane Austen",
+        "William Shakespeare",
+        "Charles Dickens",
+        "Homero"
+      ],
+      "answer": 1,
+      "explanation": "Romeo y Julieta es una tragedia de Shakespeare."
+    },
+    {
+      "question": "¿Qué criatura acompaña a Harry Potter en muchas aventuras como mascota de Ron?",
+      "options": [
+        "Dobby",
+        "Scabbers/Crookshanks",
+        "Hedwig",
+        "Fawkes"
+      ],
+      "answer": 1,
+      "explanation": "Scabbers, que luego se revela como Peter Pettigrew, fue la rata de Ron; Crookshanks es su gato posterior."
+    },
+    {
+      "question": "¿Quién escribió El principito?",
+      "options": [
+        "George Orwell",
+        "Roald Dahl",
+        "Julio Verne",
+        "Antoine de Saint-Exupéry"
+      ],
+      "answer": 3,
+      "explanation": "El principito fue escrito por Antoine de Saint-Exupéry."
+    },
+    {
+      "question": "¿Qué es una metáfora?",
+      "options": [
+        "Un tipo de narrador siempre",
+        "Una rima obligatoria",
+        "Una lista de capítulos",
+        "Una comparación implícita"
+      ],
+      "answer": 3,
+      "explanation": "La metáfora identifica una cosa con otra para sugerir una semejanza."
+    },
+    {
+      "question": "¿Qué obra épica se atribuye tradicionalmente a Homero?",
+      "options": [
+        "El paraíso perdido",
+        "Fausto",
+        "La Divina Comedia",
+        "La Odisea"
+      ],
+      "answer": 3,
+      "explanation": "La Odisea se atribuye tradicionalmente a Homero."
+    }
+  ]
+}

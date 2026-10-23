@@ -1,0 +1,93 @@
+{
+  "title": "Transporte y vehículos",
+  "questions": [
+    {
+      "question": "¿Qué combustible usan muchos automóviles eléctricos?",
+      "options": [
+        "Gas de cocina siempre",
+        "Carbón en una caldera",
+        "Madera",
+        "Electricidad almacenada en baterías"
+      ],
+      "answer": 3,
+      "explanation": "Los autos eléctricos usan energía almacenada en baterías."
+    },
+    {
+      "question": "¿Qué luz del semáforo indica detenerse?",
+      "options": [
+        "Blanca",
+        "Roja",
+        "Azul",
+        "Verde"
+      ],
+      "answer": 1,
+      "explanation": "La luz roja indica detenerse en la señalización vial habitual."
+    },
+    {
+      "question": "¿Qué vehículo suele circular sobre raíles?",
+      "options": [
+        "Tren",
+        "Avión",
+        "Barco",
+        "Bicicleta"
+      ],
+      "answer": 0,
+      "explanation": "Los trenes circulan sobre vías férreas."
+    },
+    {
+      "question": "¿Qué parte del avión produce la mayor parte de la sustentación?",
+      "options": [
+        "Asientos",
+        "Tren de aterrizaje",
+        "Ruedas",
+        "Alas"
+      ],
+      "answer": 3,
+      "explanation": "Las alas generan sustentación al moverse por el aire."
+    },
+    {
+      "question": "¿Qué transporte funciona principalmente bajo el agua?",
+      "options": [
+        "Globo aerostático",
+        "Tranvía",
+        "Camión",
+        "Submarino"
+      ],
+      "answer": 3,
+      "explanation": "El submarino está diseñado para navegar sumergido."
+    },
+    {
+      "question": "¿Qué elemento protege la cabeza al andar en bicicleta?",
+      "options": [
+        "Casco",
+        "Gafas de sol",
+        "Rodillera solamente",
+        "Bufanda"
+      ],
+      "answer": 0,
+      "explanation": "El casco reduce el riesgo de lesiones en la cabeza."
+    },
+    {
+      "question": "¿Qué significa una señal vial octogonal roja en muchos países?",
+      "options": [
+        "Estacionamiento",
+        "Pare/Stop",
+        "Zona escolar",
+        "Hospital"
+      ],
+      "answer": 1,
+      "explanation": "La señal octogonal roja indica detenerse."
+    },
+    {
+      "question": "¿Qué sistema ayuda a determinar una ubicación mediante satélites?",
+      "options": [
+        "USB",
+        "GPS",
+        "NFC únicamente",
+        "HDMI"
+      ],
+      "answer": 1,
+      "explanation": "El GPS calcula ubicación mediante señales de satélites."
+    }
+  ]
+}

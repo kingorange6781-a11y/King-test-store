@@ -1,0 +1,399 @@
+{
+  "title": "¿Qué perfil tendrías en una aventura ficticia de supervivencia?",
+  "type": "personality",
+  "questions": [
+    {
+      "question": "En una isla ficticia, el grupo debe organizar el primer día. ¿Qué haces?",
+      "options": [
+        {
+          "text": "En ese caso, primero me fijo en cómo afecta al resto del grupo.",
+          "result": "Negociador"
+        },
+        {
+          "text": "Para responder, busco una idea inesperada que cambie el enfoque.",
+          "result": "Explorador"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: busco una idea inesperada que cambie el enfoque.",
+          "result": "Inventor"
+        },
+        {
+          "text": "En esta situación, primero comparo los datos y busco qué encaja.",
+          "result": "Planificador"
+        },
+        {
+          "text": "Lo primero sería que primero me fijo en cómo afecta al resto del grupo.",
+          "result": "Cuidador"
+        }
+      ]
+    },
+    {
+      "question": "El mapa está incompleto y aparecen varias rutas. ¿Cómo eliges?",
+      "options": [
+        {
+          "text": "En ese caso, imagino varias posibilidades antes de escoger una.",
+          "result": "Inventor"
+        },
+        {
+          "text": "Lo primero sería que imagino varias posibilidades antes de escoger una.",
+          "result": "Explorador"
+        },
+        {
+          "text": "En esta situación, pregunto qué necesita cada persona antes de actuar.",
+          "result": "Negociador"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: pregunto qué necesita cada persona antes de actuar.",
+          "result": "Cuidador"
+        },
+        {
+          "text": "Para responder, separo el problema en partes más pequeñas.",
+          "result": "Planificador"
+        }
+      ]
+    },
+    {
+      "question": "Un compañero se frustra por los cambios. ¿Cómo le ayudas?",
+      "options": [
+        {
+          "text": "Lo primero sería que busco una pista verificable antes de decidir.",
+          "result": "Planificador"
+        },
+        {
+          "text": "En ese caso, intento que nadie se quede fuera.",
+          "result": "Cuidador"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: intento convertirlo en algo original y memorable.",
+          "result": "Explorador"
+        },
+        {
+          "text": "En esta situación, intento convertirlo en algo original y memorable.",
+          "result": "Inventor"
+        },
+        {
+          "text": "Para responder, intento que nadie se quede fuera.",
+          "result": "Negociador"
+        }
+      ]
+    },
+    {
+      "question": "Los materiales no bastan para todos los proyectos. ¿Qué haces?",
+      "options": [
+        {
+          "text": "Mi manera de abordarlo sería: hago una lista breve de ventajas y riesgos.",
+          "result": "Planificador"
+        },
+        {
+          "text": "En ese caso, pruebo una combinación que no se le ocurrió al grupo.",
+          "result": "Explorador"
+        },
+        {
+          "text": "Para responder, pruebo una combinación que no se le ocurrió al grupo.",
+          "result": "Inventor"
+        },
+        {
+          "text": "En esta situación, escucho las opiniones y busco un punto en común.",
+          "result": "Cuidador"
+        },
+        {
+          "text": "Lo primero sería que escucho las opiniones y busco un punto en común.",
+          "result": "Negociador"
+        }
+      ]
+    },
+    {
+      "question": "Un grupo desconocido aparece cerca del campamento. ¿Cómo reaccionas?",
+      "options": [
+        {
+          "text": "En esta situación, me gusta darle mi propio estilo.",
+          "result": "Explorador"
+        },
+        {
+          "text": "En ese caso, intento entender qué causó la situación.",
+          "result": "Planificador"
+        },
+        {
+          "text": "Lo primero sería que me gusta darle mi propio estilo.",
+          "result": "Inventor"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: ofrezco ayuda sin obligar a nadie a aceptarla.",
+          "result": "Negociador"
+        },
+        {
+          "text": "Para responder, ofrezco ayuda sin obligar a nadie a aceptarla.",
+          "result": "Cuidador"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué información reunirías primero sobre el entorno?",
+      "options": [
+        {
+          "text": "En esta situación, compruebo los detalles que otros podrían pasar por alto.",
+          "result": "Planificador"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: propongo un giro que vuelva la situación más interesante.",
+          "result": "Inventor"
+        },
+        {
+          "text": "En ese caso, doy ánimo y recuerdo lo que ya hemos logrado.",
+          "result": "Negociador"
+        },
+        {
+          "text": "Para responder, propongo un giro que vuelva la situación más interesante.",
+          "result": "Explorador"
+        },
+        {
+          "text": "Lo primero sería que doy ánimo y recuerdo lo que ya hemos logrado.",
+          "result": "Cuidador"
+        }
+      ]
+    },
+    {
+      "question": "Una herramienta se rompe durante una tarea. ¿Qué haces?",
+      "options": [
+        {
+          "text": "En ese caso, improviso con lo que tengo a mano.",
+          "result": "Inventor"
+        },
+        {
+          "text": "En esta situación, me aseguro de que todos entiendan lo que ocurre.",
+          "result": "Negociador"
+        },
+        {
+          "text": "Lo primero sería que improviso con lo que tengo a mano.",
+          "result": "Explorador"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: me aseguro de que todos entiendan lo que ocurre.",
+          "result": "Cuidador"
+        },
+        {
+          "text": "Para responder, pienso en dos explicaciones y veo cuál tiene más pruebas.",
+          "result": "Planificador"
+        }
+      ]
+    },
+    {
+      "question": "El grupo debe decidir qué objetos llevar. ¿Cómo priorizas?",
+      "options": [
+        {
+          "text": "En esta situación, me pregunto qué pasaría si lo hiciéramos de otra manera.",
+          "result": "Inventor"
+        },
+        {
+          "text": "Lo primero sería que prefiero un método que pueda repetir y revisar.",
+          "result": "Planificador"
+        },
+        {
+          "text": "En ese caso, pienso cómo resolverlo sin dañar la confianza.",
+          "result": "Cuidador"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: me pregunto qué pasaría si lo hiciéramos de otra manera.",
+          "result": "Explorador"
+        },
+        {
+          "text": "Para responder, pienso cómo resolverlo sin dañar la confianza.",
+          "result": "Negociador"
+        }
+      ]
+    },
+    {
+      "question": "¿Cómo repartirías tareas entre personas con habilidades distintas?",
+      "options": [
+        {
+          "text": "En ese caso, conecto ideas que al principio parecen separadas.",
+          "result": "Explorador"
+        },
+        {
+          "text": "Para responder, conecto ideas que al principio parecen separadas.",
+          "result": "Inventor"
+        },
+        {
+          "text": "En esta situación, le doy espacio a quien necesita hablar.",
+          "result": "Cuidador"
+        },
+        {
+          "text": "Lo primero sería que le doy espacio a quien necesita hablar.",
+          "result": "Negociador"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: me detengo a aclarar qué información falta.",
+          "result": "Planificador"
+        }
+      ]
+    },
+    {
+      "question": "Un día tranquilo permite prepararse para el futuro. ¿Qué haces?",
+      "options": [
+        {
+          "text": "Mi manera de abordarlo sería: busco una solución que sea justa para los implicados.",
+          "result": "Negociador"
+        },
+        {
+          "text": "En esta situación, elijo la opción que abre más posibilidades.",
+          "result": "Explorador"
+        },
+        {
+          "text": "Lo primero sería que elijo la opción que abre más posibilidades.",
+          "result": "Inventor"
+        },
+        {
+          "text": "En ese caso, ordeno las opciones y elijo la más coherente.",
+          "result": "Planificador"
+        },
+        {
+          "text": "Para responder, busco una solución que sea justa para los implicados.",
+          "result": "Cuidador"
+        }
+      ]
+    },
+    {
+      "question": "Una ruta conocida queda bloqueada por el clima de la historia. ¿Cómo respondes?",
+      "options": [
+        {
+          "text": "Para responder, hago un pequeño experimento para inspirarme.",
+          "result": "Explorador"
+        },
+        {
+          "text": "Lo primero sería que coordino con los demás en vez de hacerlo todo por mi cuenta.",
+          "result": "Cuidador"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: hago un pequeño experimento para inspirarme.",
+          "result": "Inventor"
+        },
+        {
+          "text": "En ese caso, coordino con los demás en vez de hacerlo todo por mi cuenta.",
+          "result": "Negociador"
+        },
+        {
+          "text": "En esta situación, reviso lo que ya sabemos antes de dar otro paso.",
+          "result": "Planificador"
+        }
+      ]
+    },
+    {
+      "question": "El grupo logra algo importante después de varios intentos. ¿Qué haces?",
+      "options": [
+        {
+          "text": "Lo primero sería que prefiero crear una solución propia a copiar una ya hecha.",
+          "result": "Explorador"
+        },
+        {
+          "text": "Para responder, hago una prueba pequeña para comprobar mi idea.",
+          "result": "Planificador"
+        },
+        {
+          "text": "En ese caso, prefiero crear una solución propia a copiar una ya hecha.",
+          "result": "Inventor"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: agradezco los aportes que suelen pasar desapercibidos.",
+          "result": "Cuidador"
+        },
+        {
+          "text": "En esta situación, agradezco los aportes que suelen pasar desapercibidos.",
+          "result": "Negociador"
+        }
+      ]
+    },
+    {
+      "question": "Surge un desacuerdo sobre el uso de recursos. ¿Cómo intervienes?",
+      "options": [
+        {
+          "text": "Lo primero sería que cambio de opinión si aparecen mejores evidencias.",
+          "result": "Planificador"
+        },
+        {
+          "text": "En esta situación, uso el error como punto de partida para otra idea.",
+          "result": "Inventor"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: uso el error como punto de partida para otra idea.",
+          "result": "Explorador"
+        },
+        {
+          "text": "En ese caso, intento bajar la tensión antes de continuar.",
+          "result": "Cuidador"
+        },
+        {
+          "text": "Para responder, intento bajar la tensión antes de continuar.",
+          "result": "Negociador"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué habilidad aprenderías antes de una expedición ficticia?",
+      "options": [
+        {
+          "text": "En ese caso, busco una forma visual o divertida de expresarlo.",
+          "result": "Explorador"
+        },
+        {
+          "text": "En esta situación, prefiero una victoria compartida a dejar a alguien atrás.",
+          "result": "Cuidador"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: busco una solución clara, no solo la más rápida.",
+          "result": "Planificador"
+        },
+        {
+          "text": "Lo primero sería que prefiero una victoria compartida a dejar a alguien atrás.",
+          "result": "Negociador"
+        },
+        {
+          "text": "Para responder, busco una forma visual o divertida de expresarlo.",
+          "result": "Inventor"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué significaría para ti terminar bien esa historia?",
+      "options": [
+        {
+          "text": "En ese caso, al final, reviso qué aprendí para la próxima vez.",
+          "result": "Planificador"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: después, compruebo que todos estén bien.",
+          "result": "Negociador"
+        },
+        {
+          "text": "Lo primero sería que me quedo con la idea que despierta más curiosidad.",
+          "result": "Inventor"
+        },
+        {
+          "text": "Para responder, después, compruebo que todos estén bien.",
+          "result": "Cuidador"
+        },
+        {
+          "text": "En esta situación, me quedo con la idea que despierta más curiosidad.",
+          "result": "Explorador"
+        }
+      ]
+    }
+  ],
+  "results": {
+    "Planificador": {
+      "description": "Priorizas la preparación, la organización y los recursos."
+    },
+    "Explorador": {
+      "description": "Te interesa conocer el entorno y descubrir rutas con prudencia."
+    },
+    "Cuidador": {
+      "description": "Das importancia a la cooperación y al bienestar del grupo."
+    },
+    "Inventor": {
+      "description": "Buscas adaptar herramientas y dar nuevos usos a los materiales."
+    },
+    "Negociador": {
+      "description": "Intentas comunicarte, intercambiar información y construir acuerdos."
+    }
+  },
+  "scoring_note": "Cuenta qué resultado aparece más veces en las opciones elegidas. Empates pueden mostrarse como resultados compartidos."
+}

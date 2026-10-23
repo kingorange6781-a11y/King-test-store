@@ -1,0 +1,93 @@
+{
+  "title": "Ecología y naturaleza",
+  "questions": [
+    {
+      "question": "¿Qué proceso usan las plantas para transformar luz en energía química?",
+      "options": [
+        "Evaporación",
+        "Fermentación únicamente",
+        "Erosión",
+        "Fotosíntesis"
+      ],
+      "answer": 3,
+      "explanation": "La fotosíntesis utiliza luz para producir compuestos orgánicos."
+    },
+    {
+      "question": "¿Qué gas aumenta principalmente por la quema de combustibles fósiles y contribuye al calentamiento global?",
+      "options": [
+        "Argón",
+        "Helio",
+        "Dióxido de carbono",
+        "Neón"
+      ],
+      "answer": 2,
+      "explanation": "El CO₂ es un gas de efecto invernadero importante."
+    },
+    {
+      "question": "¿Qué significa biodiversidad?",
+      "options": [
+        "Variedad de vida",
+        "Solo número de árboles",
+        "Cantidad de lluvia",
+        "Tamaño de un país"
+      ],
+      "answer": 0,
+      "explanation": "La biodiversidad abarca variedad genética, de especies y ecosistemas."
+    },
+    {
+      "question": "¿Cuál de estos materiales suele ser reciclable en muchos sistemas locales?",
+      "options": [
+        "Lata de aluminio",
+        "Papel higiénico sucio",
+        "Pañuelo usado",
+        "Comida podrida en cualquier contenedor"
+      ],
+      "answer": 0,
+      "explanation": "Las latas de aluminio se reciclan ampliamente, aunque las normas varían por localidad."
+    },
+    {
+      "question": "¿Qué organismo descompone materia orgánica y devuelve nutrientes al ecosistema?",
+      "options": [
+        "Plástico",
+        "Piedra",
+        "Hongo descomponedor",
+        "Nube"
+      ],
+      "answer": 2,
+      "explanation": "Los hongos y otros descomponedores reciclan nutrientes."
+    },
+    {
+      "question": "¿Qué ecosistema tiene árboles adaptados a poca agua y gran diversidad de cactus?",
+      "options": [
+        "Desierto",
+        "Tundra húmeda",
+        "Manglar",
+        "Arrecife coralino"
+      ],
+      "answer": 0,
+      "explanation": "Los desiertos tienen baja precipitación y organismos adaptados a la sequía."
+    },
+    {
+      "question": "¿Qué animales polinizan muchas plantas?",
+      "options": [
+        "Tiburones",
+        "Abejas",
+        "Lombrices exclusivamente",
+        "Pingüinos"
+      ],
+      "answer": 1,
+      "explanation": "Las abejas son polinizadores importantes de numerosas plantas."
+    },
+    {
+      "question": "¿Qué acción ayuda a ahorrar agua en casa?",
+      "options": [
+        "Reparar fugas",
+        "Dejar correr el grifo",
+        "Regar al mediodía con viento",
+        "Lavar la vereda con manguera diariamente"
+      ],
+      "answer": 0,
+      "explanation": "Reparar fugas evita pérdidas innecesarias de agua."
+    }
+  ]
+}

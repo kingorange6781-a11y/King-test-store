@@ -1,0 +1,399 @@
+{
+  "title": "¿Qué rol tendrías en una misión de equipo?",
+  "type": "personality",
+  "questions": [
+    {
+      "question": "Antes de empezar una misión ficticia, ¿qué haces?",
+      "options": [
+        {
+          "text": "Mi manera de abordarlo sería: primero me fijo en cómo afecta al resto del grupo.",
+          "result": "Protector del equipo"
+        },
+        {
+          "text": "En esta situación, elijo una meta clara y empiezo a avanzar.",
+          "result": "Coordinador"
+        },
+        {
+          "text": "En ese caso, busco una idea inesperada que cambie el enfoque.",
+          "result": "Improvisador"
+        },
+        {
+          "text": "Lo primero sería que primero me fijo en cómo afecta al resto del grupo.",
+          "result": "Motivador"
+        },
+        {
+          "text": "Para responder, primero comparo los datos y busco qué encaja.",
+          "result": "Planificador"
+        }
+      ]
+    },
+    {
+      "question": "Una persona del equipo no entiende su objetivo. ¿Cómo ayudas?",
+      "options": [
+        {
+          "text": "Lo primero sería que separo el problema en partes más pequeñas.",
+          "result": "Planificador"
+        },
+        {
+          "text": "En esta situación, imagino varias posibilidades antes de escoger una.",
+          "result": "Improvisador"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: pregunto qué necesita cada persona antes de actuar.",
+          "result": "Motivador"
+        },
+        {
+          "text": "Para responder, sigo practicando hasta mejorar el resultado.",
+          "result": "Coordinador"
+        },
+        {
+          "text": "En ese caso, pregunto qué necesita cada persona antes de actuar.",
+          "result": "Protector del equipo"
+        }
+      ]
+    },
+    {
+      "question": "El camino planeado queda bloqueado. ¿Qué haces?",
+      "options": [
+        {
+          "text": "Mi manera de abordarlo sería: busco una pista verificable antes de decidir.",
+          "result": "Planificador"
+        },
+        {
+          "text": "En esta situación, intento que nadie se quede fuera.",
+          "result": "Protector del equipo"
+        },
+        {
+          "text": "En ese caso, intento que nadie se quede fuera.",
+          "result": "Motivador"
+        },
+        {
+          "text": "Lo primero sería que acepto el desafío y doy lo mejor de mí.",
+          "result": "Coordinador"
+        },
+        {
+          "text": "Para responder, intento convertirlo en algo original y memorable.",
+          "result": "Improvisador"
+        }
+      ]
+    },
+    {
+      "question": "El equipo empieza a discutir sobre el próximo paso. ¿Cómo reaccionas?",
+      "options": [
+        {
+          "text": "En ese caso, hago una lista breve de ventajas y riesgos.",
+          "result": "Planificador"
+        },
+        {
+          "text": "Lo primero sería que pruebo una combinación que no se le ocurrió al grupo.",
+          "result": "Improvisador"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: me concentro en lo que puedo controlar.",
+          "result": "Coordinador"
+        },
+        {
+          "text": "Para responder, escucho las opiniones y busco un punto en común.",
+          "result": "Protector del equipo"
+        },
+        {
+          "text": "En esta situación, escucho las opiniones y busco un punto en común.",
+          "result": "Motivador"
+        }
+      ]
+    },
+    {
+      "question": "Queda poco tiempo para alcanzar la meta. ¿Qué priorizas?",
+      "options": [
+        {
+          "text": "Para responder, ofrezco ayuda sin obligar a nadie a aceptarla.",
+          "result": "Motivador"
+        },
+        {
+          "text": "Lo primero sería que ofrezco ayuda sin obligar a nadie a aceptarla.",
+          "result": "Protector del equipo"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: me gusta darle mi propio estilo.",
+          "result": "Improvisador"
+        },
+        {
+          "text": "En esta situación, intento entender qué causó la situación.",
+          "result": "Planificador"
+        },
+        {
+          "text": "En ese caso, divido el objetivo en pasos y los voy cumpliendo.",
+          "result": "Coordinador"
+        }
+      ]
+    },
+    {
+      "question": "Encuentran un objeto inesperado que podría ayudar. ¿Qué haces?",
+      "options": [
+        {
+          "text": "En ese caso, propongo un giro que vuelva la situación más interesante.",
+          "result": "Improvisador"
+        },
+        {
+          "text": "En esta situación, si falla la primera idea, intento otra sin rendirme.",
+          "result": "Coordinador"
+        },
+        {
+          "text": "Lo primero sería que doy ánimo y recuerdo lo que ya hemos logrado.",
+          "result": "Motivador"
+        },
+        {
+          "text": "Para responder, compruebo los detalles que otros podrían pasar por alto.",
+          "result": "Planificador"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: doy ánimo y recuerdo lo que ya hemos logrado.",
+          "result": "Protector del equipo"
+        }
+      ]
+    },
+    {
+      "question": "Un compañero duda de sus habilidades. ¿Cómo lo apoyas?",
+      "options": [
+        {
+          "text": "Para responder, me preparo para llegar con más confianza.",
+          "result": "Coordinador"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: me aseguro de que todos entiendan lo que ocurre.",
+          "result": "Motivador"
+        },
+        {
+          "text": "En esta situación, improviso con lo que tengo a mano.",
+          "result": "Improvisador"
+        },
+        {
+          "text": "En ese caso, me aseguro de que todos entiendan lo que ocurre.",
+          "result": "Protector del equipo"
+        },
+        {
+          "text": "Lo primero sería que pienso en dos explicaciones y veo cuál tiene más pruebas.",
+          "result": "Planificador"
+        }
+      ]
+    },
+    {
+      "question": "Hay dos objetivos posibles y solo alcanza el tiempo para uno. ¿Cómo eliges?",
+      "options": [
+        {
+          "text": "Mi manera de abordarlo sería: prefiero un método que pueda repetir y revisar.",
+          "result": "Planificador"
+        },
+        {
+          "text": "En ese caso, pienso cómo resolverlo sin dañar la confianza.",
+          "result": "Motivador"
+        },
+        {
+          "text": "Para responder, me pregunto qué pasaría si lo hiciéramos de otra manera.",
+          "result": "Improvisador"
+        },
+        {
+          "text": "En esta situación, pienso cómo resolverlo sin dañar la confianza.",
+          "result": "Protector del equipo"
+        },
+        {
+          "text": "Lo primero sería que tomo una decisión y asumo la responsabilidad.",
+          "result": "Coordinador"
+        }
+      ]
+    },
+    {
+      "question": "¿Cómo repartirías recursos limitados dentro de la historia?",
+      "options": [
+        {
+          "text": "En ese caso, me detengo a aclarar qué información falta.",
+          "result": "Planificador"
+        },
+        {
+          "text": "Lo primero sería que conecto ideas que al principio parecen separadas.",
+          "result": "Improvisador"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: prefiero actuar con intención en vez de quedarme esperando.",
+          "result": "Coordinador"
+        },
+        {
+          "text": "En esta situación, le doy espacio a quien necesita hablar.",
+          "result": "Motivador"
+        },
+        {
+          "text": "Para responder, le doy espacio a quien necesita hablar.",
+          "result": "Protector del equipo"
+        }
+      ]
+    },
+    {
+      "question": "El grupo logra una pequeña victoria antes del final. ¿Qué haces?",
+      "options": [
+        {
+          "text": "Lo primero sería que busco una solución que sea justa para los implicados.",
+          "result": "Protector del equipo"
+        },
+        {
+          "text": "En esta situación, ordeno las opciones y elijo la más coherente.",
+          "result": "Planificador"
+        },
+        {
+          "text": "Para responder, busco una solución que sea justa para los implicados.",
+          "result": "Motivador"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: elijo la opción que abre más posibilidades.",
+          "result": "Improvisador"
+        },
+        {
+          "text": "En ese caso, mantengo el esfuerzo aunque el progreso sea lento.",
+          "result": "Coordinador"
+        }
+      ]
+    },
+    {
+      "question": "Una tarea falla aunque todos hicieron su parte. ¿Cómo respondes?",
+      "options": [
+        {
+          "text": "Mi manera de abordarlo sería: coordino con los demás en vez de hacerlo todo por mi cuenta.",
+          "result": "Protector del equipo"
+        },
+        {
+          "text": "En esta situación, repaso mis errores para no repetirlos.",
+          "result": "Coordinador"
+        },
+        {
+          "text": "Para responder, reviso lo que ya sabemos antes de dar otro paso.",
+          "result": "Planificador"
+        },
+        {
+          "text": "En ese caso, hago un pequeño experimento para inspirarme.",
+          "result": "Improvisador"
+        },
+        {
+          "text": "Lo primero sería que coordino con los demás en vez de hacerlo todo por mi cuenta.",
+          "result": "Motivador"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué información compartirías antes de avanzar?",
+      "options": [
+        {
+          "text": "Mi manera de abordarlo sería: agradezco los aportes que suelen pasar desapercibidos.",
+          "result": "Motivador"
+        },
+        {
+          "text": "En ese caso, agradezco los aportes que suelen pasar desapercibidos.",
+          "result": "Protector del equipo"
+        },
+        {
+          "text": "Lo primero sería que hago una prueba pequeña para comprobar mi idea.",
+          "result": "Planificador"
+        },
+        {
+          "text": "En esta situación, prefiero crear una solución propia a copiar una ya hecha.",
+          "result": "Improvisador"
+        },
+        {
+          "text": "Para responder, doy el primer paso y ajusto después si hace falta.",
+          "result": "Coordinador"
+        }
+      ]
+    },
+    {
+      "question": "El equipo debe trabajar en parejas durante un rato. ¿Cómo lo organizas?",
+      "options": [
+        {
+          "text": "Para responder, uso el error como punto de partida para otra idea.",
+          "result": "Improvisador"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: cambio de opinión si aparecen mejores evidencias.",
+          "result": "Planificador"
+        },
+        {
+          "text": "En ese caso, intento bajar la tensión antes de continuar.",
+          "result": "Motivador"
+        },
+        {
+          "text": "Lo primero sería que me motiva comprobar que he mejorado.",
+          "result": "Coordinador"
+        },
+        {
+          "text": "En esta situación, intento bajar la tensión antes de continuar.",
+          "result": "Protector del equipo"
+        }
+      ]
+    },
+    {
+      "question": "Te piden cambiar de función. ¿Cómo reaccionas?",
+      "options": [
+        {
+          "text": "En esta situación, prefiero una victoria compartida a dejar a alguien atrás.",
+          "result": "Motivador"
+        },
+        {
+          "text": "En ese caso, busco una solución clara, no solo la más rápida.",
+          "result": "Planificador"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: sigo adelante, pero pido ayuda si de verdad la necesito.",
+          "result": "Coordinador"
+        },
+        {
+          "text": "Lo primero sería que busco una forma visual o divertida de expresarlo.",
+          "result": "Improvisador"
+        },
+        {
+          "text": "Para responder, prefiero una victoria compartida a dejar a alguien atrás.",
+          "result": "Protector del equipo"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué sería para ti una misión bien cumplida?",
+      "options": [
+        {
+          "text": "Para responder, después, compruebo que todos estén bien.",
+          "result": "Motivador"
+        },
+        {
+          "text": "Lo primero sería que después, compruebo que todos estén bien.",
+          "result": "Protector del equipo"
+        },
+        {
+          "text": "En ese caso, termino evaluando qué puedo hacer mejor la próxima vez.",
+          "result": "Coordinador"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: me quedo con la idea que despierta más curiosidad.",
+          "result": "Improvisador"
+        },
+        {
+          "text": "En esta situación, al final, reviso qué aprendí para la próxima vez.",
+          "result": "Planificador"
+        }
+      ]
+    }
+  ],
+  "results": {
+    "Coordinador": {
+      "description": "Repartes tareas, compruebas prioridades y mantienes el enfoque."
+    },
+    "Planificador": {
+      "description": "Anticipas problemas y preparas rutas alternativas."
+    },
+    "Motivador": {
+      "description": "Aportas ánimo y confianza cuando el equipo lo necesita."
+    },
+    "Protector del equipo": {
+      "description": "Te importa que nadie quede aislado y todos tengan apoyo."
+    },
+    "Improvisador": {
+      "description": "Te adaptas a los cambios y encuentras nuevas soluciones."
+    }
+  },
+  "scoring_note": "Cuenta qué resultado aparece más veces en las opciones elegidas. Empates pueden mostrarse como resultados compartidos."
+}

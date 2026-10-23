@@ -1,0 +1,399 @@
+{
+  "title": "¿Qué tipo de energía social tienes?",
+  "type": "personality",
+  "questions": [
+    {
+      "question": "Entras a una actividad donde conoces a pocas personas. ¿Qué haces?",
+      "options": [
+        {
+          "text": "Para responder, primero comparo los datos y busco qué encaja.",
+          "result": "Introvertido reflexivo"
+        },
+        {
+          "text": "En ese caso, primero me fijo en cómo afecta al resto del grupo.",
+          "result": "Conector selectivo"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: mantengo la calma y resuelvo lo más urgente primero.",
+          "result": "Observador tranquilo"
+        },
+        {
+          "text": "Lo primero sería que busco una idea inesperada que cambie el enfoque.",
+          "result": "Ambivertido adaptable"
+        },
+        {
+          "text": "En esta situación, primero me fijo en cómo afecta al resto del grupo.",
+          "result": "Extrovertido activo"
+        }
+      ]
+    },
+    {
+      "question": "Después de un día lleno de conversaciones, ¿cómo te sientes?",
+      "options": [
+        {
+          "text": "Para responder, pregunto qué necesita cada persona antes de actuar.",
+          "result": "Extrovertido activo"
+        },
+        {
+          "text": "Lo primero sería que separo el problema en partes más pequeñas.",
+          "result": "Introvertido reflexivo"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: imagino varias posibilidades antes de escoger una.",
+          "result": "Ambivertido adaptable"
+        },
+        {
+          "text": "En esta situación, pregunto qué necesita cada persona antes de actuar.",
+          "result": "Conector selectivo"
+        },
+        {
+          "text": "En ese caso, no me apuro: observo la situación y luego decido.",
+          "result": "Observador tranquilo"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué tipo de reunión te resulta más cómoda?",
+      "options": [
+        {
+          "text": "En esta situación, busco la opción sencilla que funcione de verdad.",
+          "result": "Observador tranquilo"
+        },
+        {
+          "text": "Lo primero sería que intento que nadie se quede fuera.",
+          "result": "Extrovertido activo"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: busco una pista verificable antes de decidir.",
+          "result": "Introvertido reflexivo"
+        },
+        {
+          "text": "Para responder, intento que nadie se quede fuera.",
+          "result": "Conector selectivo"
+        },
+        {
+          "text": "En ese caso, intento convertirlo en algo original y memorable.",
+          "result": "Ambivertido adaptable"
+        }
+      ]
+    },
+    {
+      "question": "El grupo organiza una actividad espontánea. ¿Cómo decides si vas?",
+      "options": [
+        {
+          "text": "Para responder, me adapto sin hacer un drama del cambio.",
+          "result": "Observador tranquilo"
+        },
+        {
+          "text": "En ese caso, hago una lista breve de ventajas y riesgos.",
+          "result": "Introvertido reflexivo"
+        },
+        {
+          "text": "En esta situación, pruebo una combinación que no se le ocurrió al grupo.",
+          "result": "Ambivertido adaptable"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: escucho las opiniones y busco un punto en común.",
+          "result": "Extrovertido activo"
+        },
+        {
+          "text": "Lo primero sería que escucho las opiniones y busco un punto en común.",
+          "result": "Conector selectivo"
+        }
+      ]
+    },
+    {
+      "question": "¿Cómo sueles iniciar una amistad?",
+      "options": [
+        {
+          "text": "Mi manera de abordarlo sería: ofrezco ayuda sin obligar a nadie a aceptarla.",
+          "result": "Conector selectivo"
+        },
+        {
+          "text": "Lo primero sería que prefiero probar algo tranquilo antes de complicarlo.",
+          "result": "Observador tranquilo"
+        },
+        {
+          "text": "En esta situación, intento entender qué causó la situación.",
+          "result": "Introvertido reflexivo"
+        },
+        {
+          "text": "Para responder, me gusta darle mi propio estilo.",
+          "result": "Ambivertido adaptable"
+        },
+        {
+          "text": "En ese caso, ofrezco ayuda sin obligar a nadie a aceptarla.",
+          "result": "Extrovertido activo"
+        }
+      ]
+    },
+    {
+      "question": "Tienes una tarde sin obligaciones. ¿Qué escoges?",
+      "options": [
+        {
+          "text": "Lo primero sería que propongo un giro que vuelva la situación más interesante.",
+          "result": "Ambivertido adaptable"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: me doy un momento para pensar con claridad.",
+          "result": "Observador tranquilo"
+        },
+        {
+          "text": "En ese caso, doy ánimo y recuerdo lo que ya hemos logrado.",
+          "result": "Conector selectivo"
+        },
+        {
+          "text": "En esta situación, doy ánimo y recuerdo lo que ya hemos logrado.",
+          "result": "Extrovertido activo"
+        },
+        {
+          "text": "Para responder, compruebo los detalles que otros podrían pasar por alto.",
+          "result": "Introvertido reflexivo"
+        }
+      ]
+    },
+    {
+      "question": "¿Cómo te sientes al hablar frente a un grupo?",
+      "options": [
+        {
+          "text": "Lo primero sería que pienso en dos explicaciones y veo cuál tiene más pruebas.",
+          "result": "Introvertido reflexivo"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: improviso con lo que tengo a mano.",
+          "result": "Ambivertido adaptable"
+        },
+        {
+          "text": "Para responder, me aseguro de que todos entiendan lo que ocurre.",
+          "result": "Extrovertido activo"
+        },
+        {
+          "text": "En ese caso, no necesito que todo salga perfecto para disfrutarlo.",
+          "result": "Observador tranquilo"
+        },
+        {
+          "text": "En esta situación, me aseguro de que todos entiendan lo que ocurre.",
+          "result": "Conector selectivo"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué te da más satisfacción en una conversación?",
+      "options": [
+        {
+          "text": "En esta situación, si hace falta, cambio el plan y sigo con mi día.",
+          "result": "Observador tranquilo"
+        },
+        {
+          "text": "Para responder, pienso cómo resolverlo sin dañar la confianza.",
+          "result": "Conector selectivo"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: prefiero un método que pueda repetir y revisar.",
+          "result": "Introvertido reflexivo"
+        },
+        {
+          "text": "En ese caso, me pregunto qué pasaría si lo hiciéramos de otra manera.",
+          "result": "Ambivertido adaptable"
+        },
+        {
+          "text": "Lo primero sería que pienso cómo resolverlo sin dañar la confianza.",
+          "result": "Extrovertido activo"
+        }
+      ]
+    },
+    {
+      "question": "Te invitan a dos planes el mismo día, uno grande y otro tranquilo. ¿Cómo eliges?",
+      "options": [
+        {
+          "text": "Mi manera de abordarlo sería: le doy espacio a quien necesita hablar.",
+          "result": "Extrovertido activo"
+        },
+        {
+          "text": "Lo primero sería que le doy espacio a quien necesita hablar.",
+          "result": "Conector selectivo"
+        },
+        {
+          "text": "Para responder, elijo lo que sea más práctico para este momento.",
+          "result": "Observador tranquilo"
+        },
+        {
+          "text": "En esta situación, conecto ideas que al principio parecen separadas.",
+          "result": "Ambivertido adaptable"
+        },
+        {
+          "text": "En ese caso, me detengo a aclarar qué información falta.",
+          "result": "Introvertido reflexivo"
+        }
+      ]
+    },
+    {
+      "question": "La conversación se queda en silencio. ¿Qué haces?",
+      "options": [
+        {
+          "text": "Mi manera de abordarlo sería: busco una solución que sea justa para los implicados.",
+          "result": "Conector selectivo"
+        },
+        {
+          "text": "Para responder, elijo la opción que abre más posibilidades.",
+          "result": "Ambivertido adaptable"
+        },
+        {
+          "text": "En ese caso, busco una solución que sea justa para los implicados.",
+          "result": "Extrovertido activo"
+        },
+        {
+          "text": "En esta situación, ordeno las opciones y elijo la más coherente.",
+          "result": "Introvertido reflexivo"
+        },
+        {
+          "text": "Lo primero sería que hago mi parte y dejo margen para descansar.",
+          "result": "Observador tranquilo"
+        }
+      ]
+    },
+    {
+      "question": "¿Cómo prefieres trabajar en un proyecto?",
+      "options": [
+        {
+          "text": "En ese caso, coordino con los demás en vez de hacerlo todo por mi cuenta.",
+          "result": "Conector selectivo"
+        },
+        {
+          "text": "Para responder, reviso lo que ya sabemos antes de dar otro paso.",
+          "result": "Introvertido reflexivo"
+        },
+        {
+          "text": "En esta situación, coordino con los demás en vez de hacerlo todo por mi cuenta.",
+          "result": "Extrovertido activo"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: intento no convertir un contratiempo en una catástrofe.",
+          "result": "Observador tranquilo"
+        },
+        {
+          "text": "Lo primero sería que hago un pequeño experimento para inspirarme.",
+          "result": "Ambivertido adaptable"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué ambiente te agota más?",
+      "options": [
+        {
+          "text": "Para responder, agradezco los aportes que suelen pasar desapercibidos.",
+          "result": "Extrovertido activo"
+        },
+        {
+          "text": "Lo primero sería que hago una prueba pequeña para comprobar mi idea.",
+          "result": "Introvertido reflexivo"
+        },
+        {
+          "text": "En ese caso, me fijo en lo que sí está saliendo bien.",
+          "result": "Observador tranquilo"
+        },
+        {
+          "text": "En esta situación, agradezco los aportes que suelen pasar desapercibidos.",
+          "result": "Conector selectivo"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: prefiero crear una solución propia a copiar una ya hecha.",
+          "result": "Ambivertido adaptable"
+        }
+      ]
+    },
+    {
+      "question": "¿Cómo respondes cuando recibes mensajes de varias personas?",
+      "options": [
+        {
+          "text": "En ese caso, uso el error como punto de partida para otra idea.",
+          "result": "Ambivertido adaptable"
+        },
+        {
+          "text": "Para responder, intento bajar la tensión antes de continuar.",
+          "result": "Conector selectivo"
+        },
+        {
+          "text": "Lo primero sería que intento bajar la tensión antes de continuar.",
+          "result": "Extrovertido activo"
+        },
+        {
+          "text": "En esta situación, puedo esperar hasta tener una razón clara para actuar.",
+          "result": "Observador tranquilo"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: cambio de opinión si aparecen mejores evidencias.",
+          "result": "Introvertido reflexivo"
+        }
+      ]
+    },
+    {
+      "question": "¿En qué situación muestras mejor tu personalidad?",
+      "options": [
+        {
+          "text": "Lo primero sería que prefiero una victoria compartida a dejar a alguien atrás.",
+          "result": "Conector selectivo"
+        },
+        {
+          "text": "Para responder, resuelvo lo que puedo y no me cargo con lo que no controlo.",
+          "result": "Observador tranquilo"
+        },
+        {
+          "text": "En ese caso, busco una solución clara, no solo la más rápida.",
+          "result": "Introvertido reflexivo"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: prefiero una victoria compartida a dejar a alguien atrás.",
+          "result": "Extrovertido activo"
+        },
+        {
+          "text": "En esta situación, busco una forma visual o divertida de expresarlo.",
+          "result": "Ambivertido adaptable"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué descanso social te funciona después de una semana intensa?",
+      "options": [
+        {
+          "text": "Para responder, me quedo con la idea que despierta más curiosidad.",
+          "result": "Ambivertido adaptable"
+        },
+        {
+          "text": "Lo primero sería que me quedo con la experiencia y sigo adelante.",
+          "result": "Observador tranquilo"
+        },
+        {
+          "text": "En ese caso, después, compruebo que todos estén bien.",
+          "result": "Extrovertido activo"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: después, compruebo que todos estén bien.",
+          "result": "Conector selectivo"
+        },
+        {
+          "text": "En esta situación, al final, reviso qué aprendí para la próxima vez.",
+          "result": "Introvertido reflexivo"
+        }
+      ]
+    }
+  ],
+  "results": {
+    "Extrovertido activo": {
+      "description": "Sueles disfrutar las conversaciones y las actividades compartidas."
+    },
+    "Introvertido reflexivo": {
+      "description": "Prefieres conversaciones significativas, calma y tiempo para recargar."
+    },
+    "Ambivertido adaptable": {
+      "description": "Puedes disfrutar de la vida social o de la tranquilidad según el contexto."
+    },
+    "Observador tranquilo": {
+      "description": "Captas el ambiente y participas cuando encuentras un buen momento."
+    },
+    "Conector selectivo": {
+      "description": "Valoras la cercanía y conectas con personas e intereses significativos."
+    }
+  },
+  "scoring_note": "Cuenta qué resultado aparece más veces en las opciones elegidas. Empates pueden mostrarse como resultados compartidos."
+}

@@ -1,0 +1,93 @@
+{
+  "title": "Series y animación",
+  "questions": [
+    {
+      "question": "¿En qué ciudad submarina vive Bob Esponja?",
+      "options": [
+        "Metrópolis",
+        "Ciudad Gótica",
+        "Fondo de Bikini",
+        "Springfield"
+      ],
+      "answer": 2,
+      "explanation": "Bob Esponja vive en Fondo de Bikini."
+    },
+    {
+      "question": "¿Quién es el mejor amigo de Bob Esponja?",
+      "options": [
+        "Calamardo",
+        "Plankton",
+        "Patricio",
+        "Don Cangrejo"
+      ],
+      "answer": 2,
+      "explanation": "Patricio Estrella es su mejor amigo."
+    },
+    {
+      "question": "¿Qué familia protagoniza una serie amarilla ambientada en Springfield?",
+      "options": [
+        "Los Simpson",
+        "Los Addams",
+        "Los Picapiedra",
+        "Los Griffin"
+      ],
+      "answer": 0,
+      "explanation": "Los Simpson viven en Springfield."
+    },
+    {
+      "question": "¿Qué serie presenta a Finn y Jake?",
+      "options": [
+        "Steven Universe",
+        "Gravity Falls",
+        "Phineas y Ferb",
+        "Hora de Aventura"
+      ],
+      "answer": 3,
+      "explanation": "Finn y Jake son protagonistas de Hora de Aventura."
+    },
+    {
+      "question": "¿Qué tipo de criatura es Pikachu?",
+      "options": [
+        "Dinosaurio",
+        "Digimon",
+        "Pokémon",
+        "Robot"
+      ],
+      "answer": 2,
+      "explanation": "Pikachu es un Pokémon de tipo eléctrico."
+    },
+    {
+      "question": "¿Qué serie trata sobre un niño genio llamado Dexter y su laboratorio?",
+      "options": [
+        "Futurama",
+        "Arthur",
+        "El laboratorio de Dexter",
+        "Johnny Bravo"
+      ],
+      "answer": 2,
+      "explanation": "Dexter es el protagonista de El laboratorio de Dexter."
+    },
+    {
+      "question": "¿Qué personaje de Looney Tunes suele perseguir a Bugs Bunny?",
+      "options": [
+        "Shaggy",
+        "Bob Esponja",
+        "Popeye",
+        "Elmer Gruñón"
+      ],
+      "answer": 3,
+      "explanation": "Elmer Gruñón es uno de los cazadores recurrentes de Bugs Bunny."
+    },
+    {
+      "question": "¿Qué serie sigue a un grupo que participa en desafíos para ganar un premio?",
+      "options": [
+        "Peppa Pig",
+        "Dora la Exploradora",
+        "BFDI",
+        "Pocoyó"
+      ],
+      "answer": 2,
+      "explanation": "Battle for Dream Island se centra en una competición entre personajes-objeto."
+    }
+  ]
+}

@@ -1,0 +1,399 @@
+{
+  "title": "¿Qué tipo de creador de contenido serías?",
+  "type": "personality",
+  "questions": [
+    {
+      "question": "Si abrieras un canal mañana, ¿qué primer video harías?",
+      "options": [
+        {
+          "text": "Mi manera de abordarlo sería: primero comparo los datos y busco qué encaja.",
+          "result": "Narrador de teorías"
+        },
+        {
+          "text": "En esta situación, primero comparo los datos y busco qué encaja.",
+          "result": "Divulgador"
+        },
+        {
+          "text": "Para responder, busco una idea inesperada que cambie el enfoque.",
+          "result": "Comediante"
+        },
+        {
+          "text": "En ese caso, busco una idea inesperada que cambie el enfoque.",
+          "result": "Artista visual"
+        },
+        {
+          "text": "Lo primero sería que elijo una meta clara y empiezo a avanzar.",
+          "result": "Creador gaming"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué parte del proceso creativo te entusiasma más?",
+      "options": [
+        {
+          "text": "Mi manera de abordarlo sería: sigo practicando hasta mejorar el resultado.",
+          "result": "Creador gaming"
+        },
+        {
+          "text": "Para responder, separo el problema en partes más pequeñas.",
+          "result": "Divulgador"
+        },
+        {
+          "text": "Lo primero sería que imagino varias posibilidades antes de escoger una.",
+          "result": "Comediante"
+        },
+        {
+          "text": "En esta situación, imagino varias posibilidades antes de escoger una.",
+          "result": "Artista visual"
+        },
+        {
+          "text": "En ese caso, separo el problema en partes más pequeñas.",
+          "result": "Narrador de teorías"
+        }
+      ]
+    },
+    {
+      "question": "Un video obtiene menos visitas de las esperadas. ¿Qué haces?",
+      "options": [
+        {
+          "text": "Para responder, intento convertirlo en algo original y memorable.",
+          "result": "Artista visual"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: intento convertirlo en algo original y memorable.",
+          "result": "Comediante"
+        },
+        {
+          "text": "En ese caso, acepto el desafío y doy lo mejor de mí.",
+          "result": "Creador gaming"
+        },
+        {
+          "text": "Lo primero sería que busco una pista verificable antes de decidir.",
+          "result": "Divulgador"
+        },
+        {
+          "text": "En esta situación, busco una pista verificable antes de decidir.",
+          "result": "Narrador de teorías"
+        }
+      ]
+    },
+    {
+      "question": "¿Cómo preparas un guion antes de grabar?",
+      "options": [
+        {
+          "text": "Mi manera de abordarlo sería: hago una lista breve de ventajas y riesgos.",
+          "result": "Divulgador"
+        },
+        {
+          "text": "En ese caso, pruebo una combinación que no se le ocurrió al grupo.",
+          "result": "Comediante"
+        },
+        {
+          "text": "Para responder, hago una lista breve de ventajas y riesgos.",
+          "result": "Narrador de teorías"
+        },
+        {
+          "text": "Lo primero sería que pruebo una combinación que no se le ocurrió al grupo.",
+          "result": "Artista visual"
+        },
+        {
+          "text": "En esta situación, me concentro en lo que puedo controlar.",
+          "result": "Creador gaming"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué comentario de la audiencia te alegraría más?",
+      "options": [
+        {
+          "text": "En esta situación, me gusta darle mi propio estilo.",
+          "result": "Comediante"
+        },
+        {
+          "text": "En ese caso, intento entender qué causó la situación.",
+          "result": "Divulgador"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: me gusta darle mi propio estilo.",
+          "result": "Artista visual"
+        },
+        {
+          "text": "Para responder, divido el objetivo en pasos y los voy cumpliendo.",
+          "result": "Creador gaming"
+        },
+        {
+          "text": "Lo primero sería que intento entender qué causó la situación.",
+          "result": "Narrador de teorías"
+        }
+      ]
+    },
+    {
+      "question": "Te proponen colaborar con alguien de otro estilo. ¿Cómo decides?",
+      "options": [
+        {
+          "text": "En esta situación, compruebo los detalles que otros podrían pasar por alto.",
+          "result": "Divulgador"
+        },
+        {
+          "text": "Lo primero sería que si falla la primera idea, intento otra sin rendirme.",
+          "result": "Creador gaming"
+        },
+        {
+          "text": "En ese caso, propongo un giro que vuelva la situación más interesante.",
+          "result": "Artista visual"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: compruebo los detalles que otros podrían pasar por alto.",
+          "result": "Narrador de teorías"
+        },
+        {
+          "text": "Para responder, propongo un giro que vuelva la situación más interesante.",
+          "result": "Comediante"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué habilidad mejorarías primero?",
+      "options": [
+        {
+          "text": "Mi manera de abordarlo sería: me preparo para llegar con más confianza.",
+          "result": "Creador gaming"
+        },
+        {
+          "text": "Lo primero sería que improviso con lo que tengo a mano.",
+          "result": "Comediante"
+        },
+        {
+          "text": "En esta situación, improviso con lo que tengo a mano.",
+          "result": "Artista visual"
+        },
+        {
+          "text": "Para responder, pienso en dos explicaciones y veo cuál tiene más pruebas.",
+          "result": "Divulgador"
+        },
+        {
+          "text": "En ese caso, pienso en dos explicaciones y veo cuál tiene más pruebas.",
+          "result": "Narrador de teorías"
+        }
+      ]
+    },
+    {
+      "question": "¿Cómo eliges el tema del siguiente proyecto?",
+      "options": [
+        {
+          "text": "Lo primero sería que prefiero un método que pueda repetir y revisar.",
+          "result": "Divulgador"
+        },
+        {
+          "text": "En esta situación, prefiero un método que pueda repetir y revisar.",
+          "result": "Narrador de teorías"
+        },
+        {
+          "text": "En ese caso, tomo una decisión y asumo la responsabilidad.",
+          "result": "Creador gaming"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: me pregunto qué pasaría si lo hiciéramos de otra manera.",
+          "result": "Comediante"
+        },
+        {
+          "text": "Para responder, me pregunto qué pasaría si lo hiciéramos de otra manera.",
+          "result": "Artista visual"
+        }
+      ]
+    },
+    {
+      "question": "El material grabado sale distinto a lo que imaginabas. ¿Qué haces?",
+      "options": [
+        {
+          "text": "Lo primero sería que conecto ideas que al principio parecen separadas.",
+          "result": "Artista visual"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: me detengo a aclarar qué información falta.",
+          "result": "Divulgador"
+        },
+        {
+          "text": "En esta situación, prefiero actuar con intención en vez de quedarme esperando.",
+          "result": "Creador gaming"
+        },
+        {
+          "text": "En ese caso, conecto ideas que al principio parecen separadas.",
+          "result": "Comediante"
+        },
+        {
+          "text": "Para responder, me detengo a aclarar qué información falta.",
+          "result": "Narrador de teorías"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué formato probarías durante un mes?",
+      "options": [
+        {
+          "text": "En ese caso, ordeno las opciones y elijo la más coherente.",
+          "result": "Divulgador"
+        },
+        {
+          "text": "En esta situación, elijo la opción que abre más posibilidades.",
+          "result": "Comediante"
+        },
+        {
+          "text": "Para responder, mantengo el esfuerzo aunque el progreso sea lento.",
+          "result": "Creador gaming"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: elijo la opción que abre más posibilidades.",
+          "result": "Artista visual"
+        },
+        {
+          "text": "Lo primero sería que ordeno las opciones y elijo la más coherente.",
+          "result": "Narrador de teorías"
+        }
+      ]
+    },
+    {
+      "question": "¿Cómo haces que un tema largo no aburra?",
+      "options": [
+        {
+          "text": "Mi manera de abordarlo sería: reviso lo que ya sabemos antes de dar otro paso.",
+          "result": "Narrador de teorías"
+        },
+        {
+          "text": "En ese caso, hago un pequeño experimento para inspirarme.",
+          "result": "Artista visual"
+        },
+        {
+          "text": "En esta situación, reviso lo que ya sabemos antes de dar otro paso.",
+          "result": "Divulgador"
+        },
+        {
+          "text": "Lo primero sería que repaso mis errores para no repetirlos.",
+          "result": "Creador gaming"
+        },
+        {
+          "text": "Para responder, hago un pequeño experimento para inspirarme.",
+          "result": "Comediante"
+        }
+      ]
+    },
+    {
+      "question": "Una fuente no confirma un rumor que querías tratar. ¿Qué haces?",
+      "options": [
+        {
+          "text": "En ese caso, hago una prueba pequeña para comprobar mi idea.",
+          "result": "Narrador de teorías"
+        },
+        {
+          "text": "Para responder, hago una prueba pequeña para comprobar mi idea.",
+          "result": "Divulgador"
+        },
+        {
+          "text": "En esta situación, prefiero crear una solución propia a copiar una ya hecha.",
+          "result": "Artista visual"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: doy el primer paso y ajusto después si hace falta.",
+          "result": "Creador gaming"
+        },
+        {
+          "text": "Lo primero sería que prefiero crear una solución propia a copiar una ya hecha.",
+          "result": "Comediante"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué parte de tu estilo cuidarías aunque cambien las tendencias?",
+      "options": [
+        {
+          "text": "Mi manera de abordarlo sería: uso el error como punto de partida para otra idea.",
+          "result": "Comediante"
+        },
+        {
+          "text": "En esta situación, cambio de opinión si aparecen mejores evidencias.",
+          "result": "Narrador de teorías"
+        },
+        {
+          "text": "Lo primero sería que cambio de opinión si aparecen mejores evidencias.",
+          "result": "Divulgador"
+        },
+        {
+          "text": "En ese caso, me motiva comprobar que he mejorado.",
+          "result": "Creador gaming"
+        },
+        {
+          "text": "Para responder, uso el error como punto de partida para otra idea.",
+          "result": "Artista visual"
+        }
+      ]
+    },
+    {
+      "question": "¿Cómo equilibras calidad y tiempo?",
+      "options": [
+        {
+          "text": "En esta situación, sigo adelante, pero pido ayuda si de verdad la necesito.",
+          "result": "Creador gaming"
+        },
+        {
+          "text": "En ese caso, busco una forma visual o divertida de expresarlo.",
+          "result": "Comediante"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: busco una solución clara, no solo la más rápida.",
+          "result": "Divulgador"
+        },
+        {
+          "text": "Para responder, busco una solución clara, no solo la más rápida.",
+          "result": "Narrador de teorías"
+        },
+        {
+          "text": "Lo primero sería que busco una forma visual o divertida de expresarlo.",
+          "result": "Artista visual"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué te gustaría que la audiencia se llevara de tu video?",
+      "options": [
+        {
+          "text": "Mi manera de abordarlo sería: me quedo con la idea que despierta más curiosidad.",
+          "result": "Artista visual"
+        },
+        {
+          "text": "Para responder, termino evaluando qué puedo hacer mejor la próxima vez.",
+          "result": "Creador gaming"
+        },
+        {
+          "text": "En esta situación, me quedo con la idea que despierta más curiosidad.",
+          "result": "Comediante"
+        },
+        {
+          "text": "En ese caso, al final, reviso qué aprendí para la próxima vez.",
+          "result": "Divulgador"
+        },
+        {
+          "text": "Lo primero sería que al final, reviso qué aprendí para la próxima vez.",
+          "result": "Narrador de teorías"
+        }
+      ]
+    }
+  ],
+  "results": {
+    "Divulgador": {
+      "description": "Te gusta explicar ideas y hacer que los temas difíciles se entiendan."
+    },
+    "Comediante": {
+      "description": "Buscas entretener con situaciones, ritmo y humor propio."
+    },
+    "Creador gaming": {
+      "description": "Te interesa compartir partidas, retos y experiencias con juegos."
+    },
+    "Narrador de teorías": {
+      "description": "Disfrutas investigar historias, misterios y posibles interpretaciones."
+    },
+    "Artista visual": {
+      "description": "Te expresas mediante imágenes, animación, edición y estilo visual."
+    }
+  },
+  "scoring_note": "Cuenta qué resultado aparece más veces en las opciones elegidas. Empates pueden mostrarse como resultados compartidos."
+}

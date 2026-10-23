@@ -1,0 +1,399 @@
+{
+  "title": "¿Qué rol tendrías en una aventura espacial?",
+  "type": "personality",
+  "questions": [
+    {
+      "question": "Tu nave llega a un sistema que no aparece en los mapas. ¿Qué haces?",
+      "options": [
+        {
+          "text": "En esta situación, elijo una meta clara y empiezo a avanzar.",
+          "result": "Capitán"
+        },
+        {
+          "text": "Lo primero sería que elijo una meta clara y empiezo a avanzar.",
+          "result": "Piloto"
+        },
+        {
+          "text": "En ese caso, busco una idea inesperada que cambie el enfoque.",
+          "result": "Explorador científico"
+        },
+        {
+          "text": "Para responder, primero comparo los datos y busco qué encaja.",
+          "result": "Ingeniero"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: primero me fijo en cómo afecta al resto del grupo.",
+          "result": "Diplomático"
+        }
+      ]
+    },
+    {
+      "question": "Un instrumento de navegación muestra datos contradictorios. ¿Cómo respondes?",
+      "options": [
+        {
+          "text": "Para responder, sigo practicando hasta mejorar el resultado.",
+          "result": "Capitán"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: sigo practicando hasta mejorar el resultado.",
+          "result": "Piloto"
+        },
+        {
+          "text": "Lo primero sería que separo el problema en partes más pequeñas.",
+          "result": "Ingeniero"
+        },
+        {
+          "text": "En esta situación, imagino varias posibilidades antes de escoger una.",
+          "result": "Explorador científico"
+        },
+        {
+          "text": "En ese caso, pregunto qué necesita cada persona antes de actuar.",
+          "result": "Diplomático"
+        }
+      ]
+    },
+    {
+      "question": "Dos tripulantes discrepan sobre la próxima ruta. ¿Cómo decides?",
+      "options": [
+        {
+          "text": "En ese caso, acepto el desafío y doy lo mejor de mí.",
+          "result": "Piloto"
+        },
+        {
+          "text": "Lo primero sería que acepto el desafío y doy lo mejor de mí.",
+          "result": "Capitán"
+        },
+        {
+          "text": "Para responder, intento convertirlo en algo original y memorable.",
+          "result": "Explorador científico"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: busco una pista verificable antes de decidir.",
+          "result": "Ingeniero"
+        },
+        {
+          "text": "En esta situación, intento que nadie se quede fuera.",
+          "result": "Diplomático"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué tarea escogerías durante una exploración rutinaria?",
+      "options": [
+        {
+          "text": "En esta situación, me concentro en lo que puedo controlar.",
+          "result": "Piloto"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: me concentro en lo que puedo controlar.",
+          "result": "Capitán"
+        },
+        {
+          "text": "En ese caso, hago una lista breve de ventajas y riesgos.",
+          "result": "Ingeniero"
+        },
+        {
+          "text": "Para responder, escucho las opiniones y busco un punto en común.",
+          "result": "Diplomático"
+        },
+        {
+          "text": "Lo primero sería que pruebo una combinación que no se le ocurrió al grupo.",
+          "result": "Explorador científico"
+        }
+      ]
+    },
+    {
+      "question": "Se detecta una señal desconocida desde un planeta. ¿Qué haces?",
+      "options": [
+        {
+          "text": "Lo primero sería que ofrezco ayuda sin obligar a nadie a aceptarla.",
+          "result": "Diplomático"
+        },
+        {
+          "text": "En ese caso, divido el objetivo en pasos y los voy cumpliendo.",
+          "result": "Capitán"
+        },
+        {
+          "text": "Para responder, divido el objetivo en pasos y los voy cumpliendo.",
+          "result": "Piloto"
+        },
+        {
+          "text": "En esta situación, intento entender qué causó la situación.",
+          "result": "Ingeniero"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: me gusta darle mi propio estilo.",
+          "result": "Explorador científico"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué objeto personal llevarías a una misión larga?",
+      "options": [
+        {
+          "text": "Lo primero sería que si falla la primera idea, intento otra sin rendirme.",
+          "result": "Piloto"
+        },
+        {
+          "text": "Para responder, compruebo los detalles que otros podrían pasar por alto.",
+          "result": "Ingeniero"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: doy ánimo y recuerdo lo que ya hemos logrado.",
+          "result": "Diplomático"
+        },
+        {
+          "text": "En esta situación, si falla la primera idea, intento otra sin rendirme.",
+          "result": "Capitán"
+        },
+        {
+          "text": "En ese caso, propongo un giro que vuelva la situación más interesante.",
+          "result": "Explorador científico"
+        }
+      ]
+    },
+    {
+      "question": "Una reparación requiere coordinar varias funciones de la nave. ¿Cómo ayudas?",
+      "options": [
+        {
+          "text": "Lo primero sería que pienso en dos explicaciones y veo cuál tiene más pruebas.",
+          "result": "Ingeniero"
+        },
+        {
+          "text": "Para responder, me preparo para llegar con más confianza.",
+          "result": "Capitán"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: me preparo para llegar con más confianza.",
+          "result": "Piloto"
+        },
+        {
+          "text": "En esta situación, improviso con lo que tengo a mano.",
+          "result": "Explorador científico"
+        },
+        {
+          "text": "En ese caso, me aseguro de que todos entiendan lo que ocurre.",
+          "result": "Diplomático"
+        }
+      ]
+    },
+    {
+      "question": "El equipo debate explorar una luna poco estudiada. ¿Qué evalúas?",
+      "options": [
+        {
+          "text": "Para responder, me pregunto qué pasaría si lo hiciéramos de otra manera.",
+          "result": "Explorador científico"
+        },
+        {
+          "text": "En ese caso, tomo una decisión y asumo la responsabilidad.",
+          "result": "Piloto"
+        },
+        {
+          "text": "En esta situación, pienso cómo resolverlo sin dañar la confianza.",
+          "result": "Diplomático"
+        },
+        {
+          "text": "Lo primero sería que tomo una decisión y asumo la responsabilidad.",
+          "result": "Capitán"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: prefiero un método que pueda repetir y revisar.",
+          "result": "Ingeniero"
+        }
+      ]
+    },
+    {
+      "question": "¿Cómo prepararías a una tripulación nueva?",
+      "options": [
+        {
+          "text": "Lo primero sería que conecto ideas que al principio parecen separadas.",
+          "result": "Explorador científico"
+        },
+        {
+          "text": "Para responder, le doy espacio a quien necesita hablar.",
+          "result": "Diplomático"
+        },
+        {
+          "text": "En ese caso, me detengo a aclarar qué información falta.",
+          "result": "Ingeniero"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: prefiero actuar con intención en vez de quedarme esperando.",
+          "result": "Capitán"
+        },
+        {
+          "text": "En esta situación, prefiero actuar con intención en vez de quedarme esperando.",
+          "result": "Piloto"
+        }
+      ]
+    },
+    {
+      "question": "Un aliado de otro planeta interpreta mal una instrucción. ¿Qué haces?",
+      "options": [
+        {
+          "text": "Lo primero sería que busco una solución que sea justa para los implicados.",
+          "result": "Diplomático"
+        },
+        {
+          "text": "En esta situación, ordeno las opciones y elijo la más coherente.",
+          "result": "Ingeniero"
+        },
+        {
+          "text": "Para responder, mantengo el esfuerzo aunque el progreso sea lento.",
+          "result": "Piloto"
+        },
+        {
+          "text": "En ese caso, mantengo el esfuerzo aunque el progreso sea lento.",
+          "result": "Capitán"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: elijo la opción que abre más posibilidades.",
+          "result": "Explorador científico"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué descubrimiento te haría olvidar el cansancio?",
+      "options": [
+        {
+          "text": "Para responder, reviso lo que ya sabemos antes de dar otro paso.",
+          "result": "Ingeniero"
+        },
+        {
+          "text": "En ese caso, hago un pequeño experimento para inspirarme.",
+          "result": "Explorador científico"
+        },
+        {
+          "text": "Lo primero sería que repaso mis errores para no repetirlos.",
+          "result": "Piloto"
+        },
+        {
+          "text": "En esta situación, repaso mis errores para no repetirlos.",
+          "result": "Capitán"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: coordino con los demás en vez de hacerlo todo por mi cuenta.",
+          "result": "Diplomático"
+        }
+      ]
+    },
+    {
+      "question": "El plan debe cambiar durante una maniobra complicada. ¿Cómo reaccionas?",
+      "options": [
+        {
+          "text": "Lo primero sería que hago una prueba pequeña para comprobar mi idea.",
+          "result": "Ingeniero"
+        },
+        {
+          "text": "Para responder, doy el primer paso y ajusto después si hace falta.",
+          "result": "Capitán"
+        },
+        {
+          "text": "En esta situación, prefiero crear una solución propia a copiar una ya hecha.",
+          "result": "Explorador científico"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: doy el primer paso y ajusto después si hace falta.",
+          "result": "Piloto"
+        },
+        {
+          "text": "En ese caso, agradezco los aportes que suelen pasar desapercibidos.",
+          "result": "Diplomático"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué espacio te gustaría tener en la nave?",
+      "options": [
+        {
+          "text": "Mi manera de abordarlo sería: cambio de opinión si aparecen mejores evidencias.",
+          "result": "Ingeniero"
+        },
+        {
+          "text": "En ese caso, me motiva comprobar que he mejorado.",
+          "result": "Piloto"
+        },
+        {
+          "text": "Lo primero sería que me motiva comprobar que he mejorado.",
+          "result": "Capitán"
+        },
+        {
+          "text": "En esta situación, intento bajar la tensión antes de continuar.",
+          "result": "Diplomático"
+        },
+        {
+          "text": "Para responder, uso el error como punto de partida para otra idea.",
+          "result": "Explorador científico"
+        }
+      ]
+    },
+    {
+      "question": "¿Cómo tomas una decisión que afecta a toda la tripulación?",
+      "options": [
+        {
+          "text": "Para responder, prefiero una victoria compartida a dejar a alguien atrás.",
+          "result": "Diplomático"
+        },
+        {
+          "text": "Lo primero sería que busco una forma visual o divertida de expresarlo.",
+          "result": "Explorador científico"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: sigo adelante, pero pido ayuda si de verdad la necesito.",
+          "result": "Capitán"
+        },
+        {
+          "text": "En ese caso, busco una solución clara, no solo la más rápida.",
+          "result": "Ingeniero"
+        },
+        {
+          "text": "En esta situación, sigo adelante, pero pido ayuda si de verdad la necesito.",
+          "result": "Piloto"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué logro definiría tu misión ideal?",
+      "options": [
+        {
+          "text": "Mi manera de abordarlo sería: me quedo con la idea que despierta más curiosidad.",
+          "result": "Explorador científico"
+        },
+        {
+          "text": "En esta situación, al final, reviso qué aprendí para la próxima vez.",
+          "result": "Ingeniero"
+        },
+        {
+          "text": "Para responder, termino evaluando qué puedo hacer mejor la próxima vez.",
+          "result": "Piloto"
+        },
+        {
+          "text": "En ese caso, termino evaluando qué puedo hacer mejor la próxima vez.",
+          "result": "Capitán"
+        },
+        {
+          "text": "Lo primero sería que después, compruebo que todos estén bien.",
+          "result": "Diplomático"
+        }
+      ]
+    }
+  ],
+  "results": {
+    "Capitán": {
+      "description": "Coordinas, decides y mantienes al equipo enfocado."
+    },
+    "Ingeniero": {
+      "description": "Te interesa comprender sistemas, reparar fallos y mejorar herramientas."
+    },
+    "Piloto": {
+      "description": "Te atraen la navegación, los cambios rápidos y la precisión."
+    },
+    "Diplomático": {
+      "description": "Buscas acuerdos y evitar conflictos innecesarios."
+    },
+    "Explorador científico": {
+      "description": "Te entusiasma investigar lugares y comprender fenómenos nuevos."
+    }
+  },
+  "scoring_note": "Cuenta qué resultado aparece más veces en las opciones elegidas. Empates pueden mostrarse como resultados compartidos."
+}

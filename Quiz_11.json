@@ -1,0 +1,93 @@
+{
+  "title": "Cine",
+  "questions": [
+    {
+      "question": "¿Qué premio se conoce popularmente como Oscar?",
+      "options": [
+        "Tony",
+        "Palma de Oro",
+        "Premio de la Academia",
+        "Grammy"
+      ],
+      "answer": 2,
+      "explanation": "Los Oscar son los premios de la Academia de Artes y Ciencias Cinematográficas."
+    },
+    {
+      "question": "¿Qué película animada tiene a Woody y Buzz?",
+      "options": [
+        "Toy Story",
+        "Coco",
+        "Cars",
+        "Shrek"
+      ],
+      "answer": 0,
+      "explanation": "Woody y Buzz son personajes de Toy Story."
+    },
+    {
+      "question": "¿Qué saga incluye a Darth Vader?",
+      "options": [
+        "Star Wars",
+        "Rocky",
+        "Jurassic Park",
+        "Harry Potter"
+      ],
+      "answer": 0,
+      "explanation": "Darth Vader pertenece a Star Wars."
+    },
+    {
+      "question": "¿Qué estudio creó a Mickey Mouse junto a sus primeros animadores?",
+      "options": [
+        "Aardman",
+        "Disney",
+        "Pixar",
+        "Ghibli"
+      ],
+      "answer": 1,
+      "explanation": "Mickey Mouse es uno de los personajes emblemáticos de Disney."
+    },
+    {
+      "question": "¿Qué criatura aparece en la película Jurassic Park?",
+      "options": [
+        "Dinosaurios",
+        "Robots gigantes",
+        "Sirenas",
+        "Vampiros"
+      ],
+      "answer": 0,
+      "explanation": "Jurassic Park trata sobre dinosaurios recreados mediante ingeniería genética."
+    },
+    {
+      "question": "¿Qué película sigue a una familia de superhéroes llamada Parr?",
+      "options": [
+        "Ratatouille",
+        "Encanto",
+        "Up",
+        "Los Increíbles"
+      ],
+      "answer": 3,
+      "explanation": "La familia Parr protagoniza Los Increíbles."
+    },
+    {
+      "question": "¿Qué género suele buscar provocar miedo y tensión?",
+      "options": [
+        "Musical",
+        "Terror",
+        "Documental deportivo",
+        "Comedia romántica"
+      ],
+      "answer": 1,
+      "explanation": "El terror busca producir miedo, inquietud o suspense."
+    },
+    {
+      "question": "¿Qué personaje dice ser un ogro y vive en un pantano?",
+      "options": [
+        "Nemo",
+        "Hiccup",
+        "Po",
+        "Shrek"
+      ],
+      "answer": 3,
+      "explanation": "Shrek es un ogro que vive en un pantano."
+    }
+  ]
+}

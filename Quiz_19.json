@@ -1,0 +1,93 @@
+{
+  "title": "Comida y cocina",
+  "questions": [
+    {
+      "question": "¿Cuál es el ingrediente principal del guacamole tradicional?",
+      "options": [
+        "Palta/aguacate",
+        "Arroz",
+        "Manzana",
+        "Papa"
+      ],
+      "answer": 0,
+      "explanation": "El aguacate es la base del guacamole."
+    },
+    {
+      "question": "¿Qué método cocina alimentos usando vapor de agua caliente?",
+      "options": [
+        "Cocción al vapor",
+        "Congelar",
+        "Asar a la parrilla",
+        "Freír"
+      ],
+      "answer": 0,
+      "explanation": "La cocción al vapor usa vapor caliente para transferir calor."
+    },
+    {
+      "question": "¿Qué grano se utiliza para hacer la mayoría de las pastas tradicionales?",
+      "options": [
+        "Cebada exclusivamente",
+        "Maíz siempre",
+        "Cacao",
+        "Trigo"
+      ],
+      "answer": 3,
+      "explanation": "Muchas pastas tradicionales se elaboran con sémola de trigo."
+    },
+    {
+      "question": "¿Qué sabor se asocia con el limón?",
+      "options": [
+        "Amargo siempre",
+        "Ácido",
+        "Umami exclusivamente",
+        "Salado"
+      ],
+      "answer": 1,
+      "explanation": "El ácido cítrico da al limón su sabor ácido."
+    },
+    {
+      "question": "¿Qué levadura ayuda a que suba el pan?",
+      "options": [
+        "Levadura de panadería",
+        "Gelatina",
+        "Sal gruesa",
+        "Polvo de hierro"
+      ],
+      "answer": 0,
+      "explanation": "La levadura produce dióxido de carbono durante la fermentación."
+    },
+    {
+      "question": "¿Qué alimento se elabora cuajando leche?",
+      "options": [
+        "Mermelada",
+        "Pan",
+        "Queso",
+        "Tofu siempre"
+      ],
+      "answer": 2,
+      "explanation": "El queso se obtiene mediante coagulación de componentes de la leche."
+    },
+    {
+      "question": "¿Qué utensilio sirve para escurrir pasta?",
+      "options": [
+        "Batidor",
+        "Rallador",
+        "Colador",
+        "Rodillo"
+      ],
+      "answer": 2,
+      "explanation": "Un colador separa el líquido de los alimentos sólidos."
+    },
+    {
+      "question": "¿Qué práctica ayuda a evitar contaminación cruzada?",
+      "options": [
+        "Descongelar al sol",
+        "Usar el mismo cuchillo sin lavarlo",
+        "Dejar comida cocida junto a carne cruda",
+        "Separar tablas para carne cruda y vegetales"
+      ],
+      "answer": 3,
+      "explanation": "Separar utensilios y superficies reduce la transferencia de microorganismos."
+    }
+  ]
+}

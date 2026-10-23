@@ -1,0 +1,93 @@
+{
+  "title": "Música",
+  "questions": [
+    {
+      "question": "¿Cuántas notas tiene la escala diatónica básica?",
+      "options": [
+        "8",
+        "7",
+        "5",
+        "12"
+      ],
+      "answer": 1,
+      "explanation": "La escala diatónica tiene siete notas distintas antes de repetir la octava."
+    },
+    {
+      "question": "¿Qué instrumento tiene normalmente seis cuerdas en su versión estándar?",
+      "options": [
+        "Trompeta",
+        "Timbal",
+        "Guitarra",
+        "Flauta"
+      ],
+      "answer": 2,
+      "explanation": "La guitarra estándar suele tener seis cuerdas."
+    },
+    {
+      "question": "¿Qué unidad mide la frecuencia del sonido?",
+      "options": [
+        "Metro",
+        "Litro",
+        "Watt",
+        "Hertz"
+      ],
+      "answer": 3,
+      "explanation": "La frecuencia se mide en hercios (Hz)."
+    },
+    {
+      "question": "¿Qué es el tempo musical?",
+      "options": [
+        "El volumen máximo",
+        "La velocidad de la música",
+        "La letra de una canción",
+        "El tamaño del escenario"
+      ],
+      "answer": 1,
+      "explanation": "El tempo indica la velocidad de los pulsos musicales."
+    },
+    {
+      "question": "¿Qué familia incluye violín y violonchelo?",
+      "options": [
+        "Percusión",
+        "Cuerda frotada",
+        "Teclado electrónico",
+        "Viento metal"
+      ],
+      "answer": 1,
+      "explanation": "Violín y violonchelo son instrumentos de cuerda frotada."
+    },
+    {
+      "question": "¿Qué aparato convierte sonido en señal eléctrica al cantar?",
+      "options": [
+        "Micrófono",
+        "Ratón",
+        "Router",
+        "Proyector"
+      ],
+      "answer": 0,
+      "explanation": "Un micrófono transforma ondas sonoras en una señal."
+    },
+    {
+      "question": "¿Qué término indica tocar suave?",
+      "options": [
+        "Presto",
+        "Allegro",
+        "Piano",
+        "Forte"
+      ],
+      "answer": 2,
+      "explanation": "En dinámica musical, piano significa suave."
+    },
+    {
+      "question": "¿Qué género está asociado a improvisación y swing?",
+      "options": [
+        "Reguetón exclusivamente",
+        "Marcha militar solamente",
+        "Ópera exclusivamente",
+        "Jazz"
+      ],
+      "answer": 3,
+      "explanation": "La improvisación es una característica importante de muchas formas de jazz."
+    }
+  ]
+}

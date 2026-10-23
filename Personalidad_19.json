@@ -1,0 +1,399 @@
+{
+  "title": "¿Qué estilo de humor te representa?",
+  "type": "personality",
+  "questions": [
+    {
+      "question": "Alguien dice «todo sale según el plan» justo antes de un pequeño desastre. ¿Qué respondes?",
+      "options": [
+        {
+          "text": "Para responder, primero comparo los datos y busco qué encaja.",
+          "result": "Sarcasmo ligero"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: primero me fijo en cómo afecta al resto del grupo.",
+          "result": "Humor tierno"
+        },
+        {
+          "text": "En ese caso, busco una idea inesperada que cambie el enfoque.",
+          "result": "Humor caótico"
+        },
+        {
+          "text": "Lo primero sería que busco una idea inesperada que cambie el enfoque.",
+          "result": "Ingenio de palabras"
+        },
+        {
+          "text": "En esta situación, busco una idea inesperada que cambie el enfoque.",
+          "result": "Humor absurdo"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué clase de meme enviarías a un grupo de amigos?",
+      "options": [
+        {
+          "text": "En ese caso, pregunto qué necesita cada persona antes de actuar.",
+          "result": "Humor tierno"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: imagino varias posibilidades antes de escoger una.",
+          "result": "Ingenio de palabras"
+        },
+        {
+          "text": "Lo primero sería que separo el problema en partes más pequeñas.",
+          "result": "Sarcasmo ligero"
+        },
+        {
+          "text": "Para responder, imagino varias posibilidades antes de escoger una.",
+          "result": "Humor absurdo"
+        },
+        {
+          "text": "En esta situación, imagino varias posibilidades antes de escoger una.",
+          "result": "Humor caótico"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué hace que una conversación cotidiana te dé risa?",
+      "options": [
+        {
+          "text": "En esta situación, intento que nadie se quede fuera.",
+          "result": "Humor tierno"
+        },
+        {
+          "text": "En ese caso, intento convertirlo en algo original y memorable.",
+          "result": "Ingenio de palabras"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: busco una pista verificable antes de decidir.",
+          "result": "Sarcasmo ligero"
+        },
+        {
+          "text": "Para responder, intento convertirlo en algo original y memorable.",
+          "result": "Humor caótico"
+        },
+        {
+          "text": "Lo primero sería que intento convertirlo en algo original y memorable.",
+          "result": "Humor absurdo"
+        }
+      ]
+    },
+    {
+      "question": "Un objeto común aparece en un lugar totalmente inesperado. ¿Cómo lo conviertes en broma?",
+      "options": [
+        {
+          "text": "Lo primero sería que pruebo una combinación que no se le ocurrió al grupo.",
+          "result": "Humor caótico"
+        },
+        {
+          "text": "Para responder, escucho las opiniones y busco un punto en común.",
+          "result": "Humor tierno"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: pruebo una combinación que no se le ocurrió al grupo.",
+          "result": "Humor absurdo"
+        },
+        {
+          "text": "En esta situación, pruebo una combinación que no se le ocurrió al grupo.",
+          "result": "Ingenio de palabras"
+        },
+        {
+          "text": "En ese caso, hago una lista breve de ventajas y riesgos.",
+          "result": "Sarcasmo ligero"
+        }
+      ]
+    },
+    {
+      "question": "¿Cómo animarías a alguien que tuvo un mal día?",
+      "options": [
+        {
+          "text": "En esta situación, intento entender qué causó la situación.",
+          "result": "Sarcasmo ligero"
+        },
+        {
+          "text": "Para responder, me gusta darle mi propio estilo.",
+          "result": "Ingenio de palabras"
+        },
+        {
+          "text": "En ese caso, me gusta darle mi propio estilo.",
+          "result": "Humor absurdo"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: me gusta darle mi propio estilo.",
+          "result": "Humor caótico"
+        },
+        {
+          "text": "Lo primero sería que ofrezco ayuda sin obligar a nadie a aceptarla.",
+          "result": "Humor tierno"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué tipo de remate prefieres en una historia graciosa?",
+      "options": [
+        {
+          "text": "Para responder, compruebo los detalles que otros podrían pasar por alto.",
+          "result": "Sarcasmo ligero"
+        },
+        {
+          "text": "Lo primero sería que propongo un giro que vuelva la situación más interesante.",
+          "result": "Ingenio de palabras"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: doy ánimo y recuerdo lo que ya hemos logrado.",
+          "result": "Humor tierno"
+        },
+        {
+          "text": "En ese caso, propongo un giro que vuelva la situación más interesante.",
+          "result": "Humor caótico"
+        },
+        {
+          "text": "En esta situación, propongo un giro que vuelva la situación más interesante.",
+          "result": "Humor absurdo"
+        }
+      ]
+    },
+    {
+      "question": "Encuentras un juego de palabras en un cartel. ¿Qué haces?",
+      "options": [
+        {
+          "text": "Mi manera de abordarlo sería: improviso con lo que tengo a mano.",
+          "result": "Ingenio de palabras"
+        },
+        {
+          "text": "En esta situación, improviso con lo que tengo a mano.",
+          "result": "Humor caótico"
+        },
+        {
+          "text": "Para responder, improviso con lo que tengo a mano.",
+          "result": "Humor absurdo"
+        },
+        {
+          "text": "En ese caso, me aseguro de que todos entiendan lo que ocurre.",
+          "result": "Humor tierno"
+        },
+        {
+          "text": "Lo primero sería que pienso en dos explicaciones y veo cuál tiene más pruebas.",
+          "result": "Sarcasmo ligero"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué clase de sketch te gustaría escribir?",
+      "options": [
+        {
+          "text": "Lo primero sería que me pregunto qué pasaría si lo hiciéramos de otra manera.",
+          "result": "Humor absurdo"
+        },
+        {
+          "text": "En esta situación, pienso cómo resolverlo sin dañar la confianza.",
+          "result": "Humor tierno"
+        },
+        {
+          "text": "En ese caso, me pregunto qué pasaría si lo hiciéramos de otra manera.",
+          "result": "Ingenio de palabras"
+        },
+        {
+          "text": "Para responder, me pregunto qué pasaría si lo hiciéramos de otra manera.",
+          "result": "Humor caótico"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: prefiero un método que pueda repetir y revisar.",
+          "result": "Sarcasmo ligero"
+        }
+      ]
+    },
+    {
+      "question": "Una broma no funciona como esperabas. ¿Cómo respondes?",
+      "options": [
+        {
+          "text": "Lo primero sería que conecto ideas que al principio parecen separadas.",
+          "result": "Humor caótico"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: conecto ideas que al principio parecen separadas.",
+          "result": "Humor absurdo"
+        },
+        {
+          "text": "En esta situación, conecto ideas que al principio parecen separadas.",
+          "result": "Ingenio de palabras"
+        },
+        {
+          "text": "Para responder, le doy espacio a quien necesita hablar.",
+          "result": "Humor tierno"
+        },
+        {
+          "text": "En ese caso, me detengo a aclarar qué información falta.",
+          "result": "Sarcasmo ligero"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué tipo de personaje cómico te cae bien?",
+      "options": [
+        {
+          "text": "Lo primero sería que busco una solución que sea justa para los implicados.",
+          "result": "Humor tierno"
+        },
+        {
+          "text": "En ese caso, elijo la opción que abre más posibilidades.",
+          "result": "Humor absurdo"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: elijo la opción que abre más posibilidades.",
+          "result": "Humor caótico"
+        },
+        {
+          "text": "En esta situación, ordeno las opciones y elijo la más coherente.",
+          "result": "Sarcasmo ligero"
+        },
+        {
+          "text": "Para responder, elijo la opción que abre más posibilidades.",
+          "result": "Ingenio de palabras"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué te divierte de las conversaciones entre amigos?",
+      "options": [
+        {
+          "text": "Para responder, reviso lo que ya sabemos antes de dar otro paso.",
+          "result": "Sarcasmo ligero"
+        },
+        {
+          "text": "En ese caso, hago un pequeño experimento para inspirarme.",
+          "result": "Humor caótico"
+        },
+        {
+          "text": "Lo primero sería que hago un pequeño experimento para inspirarme.",
+          "result": "Ingenio de palabras"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: coordino con los demás en vez de hacerlo todo por mi cuenta.",
+          "result": "Humor tierno"
+        },
+        {
+          "text": "En esta situación, hago un pequeño experimento para inspirarme.",
+          "result": "Humor absurdo"
+        }
+      ]
+    },
+    {
+      "question": "Un momento serio se interrumpe por algo ridículo. ¿Qué te hace gracia?",
+      "options": [
+        {
+          "text": "En esta situación, prefiero crear una solución propia a copiar una ya hecha.",
+          "result": "Humor caótico"
+        },
+        {
+          "text": "En ese caso, agradezco los aportes que suelen pasar desapercibidos.",
+          "result": "Humor tierno"
+        },
+        {
+          "text": "Lo primero sería que hago una prueba pequeña para comprobar mi idea.",
+          "result": "Sarcasmo ligero"
+        },
+        {
+          "text": "Para responder, prefiero crear una solución propia a copiar una ya hecha.",
+          "result": "Humor absurdo"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: prefiero crear una solución propia a copiar una ya hecha.",
+          "result": "Ingenio de palabras"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué estilo usarías para titular un video cómico?",
+      "options": [
+        {
+          "text": "Mi manera de abordarlo sería: cambio de opinión si aparecen mejores evidencias.",
+          "result": "Sarcasmo ligero"
+        },
+        {
+          "text": "Para responder, uso el error como punto de partida para otra idea.",
+          "result": "Humor caótico"
+        },
+        {
+          "text": "En esta situación, intento bajar la tensión antes de continuar.",
+          "result": "Humor tierno"
+        },
+        {
+          "text": "En ese caso, uso el error como punto de partida para otra idea.",
+          "result": "Ingenio de palabras"
+        },
+        {
+          "text": "Lo primero sería que uso el error como punto de partida para otra idea.",
+          "result": "Humor absurdo"
+        }
+      ]
+    },
+    {
+      "question": "¿Cómo reaccionas cuando alguien se ríe de tu chiste?",
+      "options": [
+        {
+          "text": "En ese caso, busco una solución clara, no solo la más rápida.",
+          "result": "Sarcasmo ligero"
+        },
+        {
+          "text": "En esta situación, busco una forma visual o divertida de expresarlo.",
+          "result": "Ingenio de palabras"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: busco una forma visual o divertida de expresarlo.",
+          "result": "Humor absurdo"
+        },
+        {
+          "text": "Para responder, prefiero una victoria compartida a dejar a alguien atrás.",
+          "result": "Humor tierno"
+        },
+        {
+          "text": "Lo primero sería que busco una forma visual o divertida de expresarlo.",
+          "result": "Humor caótico"
+        }
+      ]
+    },
+    {
+      "question": "¿Qué deja una buena broma después de terminar?",
+      "options": [
+        {
+          "text": "Para responder, me quedo con la idea que despierta más curiosidad.",
+          "result": "Ingenio de palabras"
+        },
+        {
+          "text": "Mi manera de abordarlo sería: me quedo con la idea que despierta más curiosidad.",
+          "result": "Humor caótico"
+        },
+        {
+          "text": "Lo primero sería que después, compruebo que todos estén bien.",
+          "result": "Humor tierno"
+        },
+        {
+          "text": "En esta situación, al final, reviso qué aprendí para la próxima vez.",
+          "result": "Sarcasmo ligero"
+        },
+        {
+          "text": "En ese caso, me quedo con la idea que despierta más curiosidad.",
+          "result": "Humor absurdo"
+        }
+      ]
+    }
+  ],
+  "results": {
+    "Humor absurdo": {
+      "description": "Disfrutas combinaciones inesperadas y escenas que rompen la lógica cotidiana."
+    },
+    "Sarcasmo ligero": {
+      "description": "Te gustan los comentarios secos y las observaciones agudas sin humillar."
+    },
+    "Ingenio de palabras": {
+      "description": "Te divierten los dobles sentidos y las respuestas rápidas."
+    },
+    "Humor tierno": {
+      "description": "Prefieres bromas amables y situaciones entrañables."
+    },
+    "Humor caótico": {
+      "description": "Te gustan los giros repentinos y el desorden cómico inocente."
+    }
+  },
+  "scoring_note": "Cuenta qué resultado aparece más veces en las opciones elegidas. Empates pueden mostrarse como resultados compartidos."
+}

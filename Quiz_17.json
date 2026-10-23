@@ -1,0 +1,93 @@
+{
+  "title": "Arte y diseño",
+  "questions": [
+    {
+      "question": "¿Qué colores son primarios en el modelo tradicional de pintura RYB?",
+      "options": [
+        "Rojo, amarillo y azul",
+        "Cian, magenta y amarillo",
+        "Negro, blanco y gris",
+        "Verde, violeta y naranja"
+      ],
+      "answer": 0,
+      "explanation": "El modelo tradicional de pintura suele enseñar rojo, amarillo y azul como primarios."
+    },
+    {
+      "question": "¿Qué técnica crea una imagen mediante pequeñas piezas o teselas?",
+      "options": [
+        "Grabado en linóleo",
+        "Acuarela",
+        "Mosaico",
+        "Carboncillo"
+      ],
+      "answer": 2,
+      "explanation": "Un mosaico se compone de pequeñas piezas ensambladas."
+    },
+    {
+      "question": "¿Qué movimiento artístico se asocia con Salvador Dalí?",
+      "options": [
+        "Pop art",
+        "Neoclasicismo",
+        "Surrealismo",
+        "Cubismo exclusivamente"
+      ],
+      "answer": 2,
+      "explanation": "Dalí fue una figura destacada del surrealismo."
+    },
+    {
+      "question": "¿Qué se usa para modelar figuras tridimensionales a mano?",
+      "options": [
+        "Tinta invisible",
+        "Arcilla",
+        "Papel carbón únicamente",
+        "Tiza líquida"
+      ],
+      "answer": 1,
+      "explanation": "La arcilla es un material común para modelado."
+    },
+    {
+      "question": "¿Qué es el contraste en diseño?",
+      "options": [
+        "Quitar todos los colores",
+        "Repetir exactamente todo",
+        "Diferencia visible entre elementos",
+        "Usar solo letras pequeñas"
+      ],
+      "answer": 2,
+      "explanation": "El contraste ayuda a distinguir elementos por color, tamaño, forma o valor."
+    },
+    {
+      "question": "¿Qué herramienta suele servir para dibujar círculos precisos?",
+      "options": [
+        "Regla T solamente",
+        "Compás",
+        "Pincel plano",
+        "Goma"
+      ],
+      "answer": 1,
+      "explanation": "El compás permite trazar circunferencias."
+    },
+    {
+      "question": "¿Qué técnica utiliza pigmento diluido en agua?",
+      "options": [
+        "Escultura",
+        "Serigrafía exclusivamente",
+        "Óleo siempre",
+        "Acuarela"
+      ],
+      "answer": 3,
+      "explanation": "La acuarela usa pigmentos suspendidos en un medio soluble en agua."
+    },
+    {
+      "question": "¿Qué significa perspectiva en dibujo?",
+      "options": [
+        "Mezclar solo colores cálidos",
+        "Representar profundidad en una superficie plana",
+        "Usar exclusivamente puntos",
+        "Dibujar sin proporciones"
+      ],
+      "answer": 1,
+      "explanation": "La perspectiva crea la ilusión de profundidad y espacio."
+    }
+  ]
+}

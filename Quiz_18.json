@@ -1,0 +1,93 @@
+{
+  "title": "Mitología",
+  "questions": [
+    {
+      "question": "¿Quién es el dios griego del mar?",
+      "options": [
+        "Ares",
+        "Hermes",
+        "Poseidón",
+        "Apolo"
+      ],
+      "answer": 2,
+      "explanation": "Poseidón es una deidad griega asociada al mar."
+    },
+    {
+      "question": "¿Qué criatura tiene cuerpo de león y cabeza humana en la mitología griega?",
+      "options": [
+        "Minotauro",
+        "Hidra",
+        "Pegaso",
+        "Esfinge"
+      ],
+      "answer": 3,
+      "explanation": "La esfinge griega aparece como una criatura con cabeza humana y cuerpo de león."
+    },
+    {
+      "question": "¿Quién es el dios nórdico del trueno?",
+      "options": [
+        "Odín",
+        "Thor",
+        "Loki",
+        "Freyr"
+      ],
+      "answer": 1,
+      "explanation": "Thor está asociado al trueno y empuña el martillo Mjölnir."
+    },
+    {
+      "question": "¿Qué héroe griego realizó doce trabajos?",
+      "options": [
+        "Heracles",
+        "Aquiles",
+        "Odiseo",
+        "Perseo"
+      ],
+      "answer": 0,
+      "explanation": "Heracles es conocido por los doce trabajos."
+    },
+    {
+      "question": "¿Qué ave mitológica renace de sus cenizas?",
+      "options": [
+        "Hipogrifo",
+        "Grifo",
+        "Fénix",
+        "Roc"
+      ],
+      "answer": 2,
+      "explanation": "El fénix simboliza renovación y renacimiento."
+    },
+    {
+      "question": "¿Quién era la diosa griega de la sabiduría?",
+      "options": [
+        "Deméter",
+        "Afrodita",
+        "Hera",
+        "Atenea"
+      ],
+      "answer": 3,
+      "explanation": "Atenea se asocia con sabiduría y estrategia."
+    },
+    {
+      "question": "¿Qué criatura del laberinto tenía cuerpo humano y cabeza de toro?",
+      "options": [
+        "Cerbero",
+        "Cíclope",
+        "Minotauro",
+        "Centauro"
+      ],
+      "answer": 2,
+      "explanation": "El Minotauro es la criatura del mito cretense."
+    },
+    {
+      "question": "¿Qué héroe nórdico aparece en muchas historias modernas con el martillo Mjölnir?",
+      "options": [
+        "Hades",
+        "Thor",
+        "Zeus",
+        "Anubis"
+      ],
+      "answer": 1,
+      "explanation": "Mjölnir es el martillo de Thor en la mitología nórdica."
+    }
+  ]
+}

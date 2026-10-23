@@ -1,0 +1,93 @@
+{
+  "title": "Deportes",
+  "questions": [
+    {
+      "question": "¿Cuántos jugadores por equipo hay en cancha en el fútbol asociación?",
+      "options": [
+        "9",
+        "10",
+        "12",
+        "11"
+      ],
+      "answer": 3,
+      "explanation": "Un equipo de fútbol asociación juega con once jugadores, incluido el portero."
+    },
+    {
+      "question": "¿En qué deporte se usa un volante o shuttlecock?",
+      "options": [
+        "Bádminton",
+        "Rugby",
+        "Béisbol",
+        "Baloncesto"
+      ],
+      "answer": 0,
+      "explanation": "El bádminton se juega con una pluma o volante."
+    },
+    {
+      "question": "¿Cuántos puntos vale un triple en baloncesto?",
+      "options": [
+        "4",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": 3,
+      "explanation": "Un lanzamiento desde detrás de la línea de triple vale tres puntos."
+    },
+    {
+      "question": "¿Qué deporte se disputa en Wimbledon?",
+      "options": [
+        "Ciclismo",
+        "Críquet",
+        "Tenis",
+        "Golf"
+      ],
+      "answer": 2,
+      "explanation": "Wimbledon es uno de los torneos más importantes de tenis."
+    },
+    {
+      "question": "¿En qué deporte se nada, pedalea y corre en una misma competición?",
+      "options": [
+        "Pentatlón moderno siempre",
+        "Triatlón",
+        "Maratón",
+        "Decatlón"
+      ],
+      "answer": 1,
+      "explanation": "El triatlón combina natación, ciclismo y carrera."
+    },
+    {
+      "question": "¿Qué pieza se mueve en el ajedrez en forma de L?",
+      "options": [
+        "Caballo",
+        "Torre",
+        "Rey",
+        "Alfil"
+      ],
+      "answer": 0,
+      "explanation": "El caballo se mueve dos casillas en una dirección y una perpendicular."
+    },
+    {
+      "question": "¿Qué deporte usa un bate y bases?",
+      "options": [
+        "Balonmano",
+        "Béisbol",
+        "Voleibol",
+        "Hockey sobre hielo"
+      ],
+      "answer": 1,
+      "explanation": "El béisbol se juega con bate, pelota y bases."
+    },
+    {
+      "question": "¿Qué país originó el judo?",
+      "options": [
+        "España",
+        "Japón",
+        "Canadá",
+        "Brasil"
+      ],
+      "answer": 1,
+      "explanation": "El judo se desarrolló en Japón a finales del siglo XIX."
+    }
+  ]
+}
