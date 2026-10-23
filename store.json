@@ -1,3 +1,4 @@
+
 [
   {
     "title": "¿Qué tipo de personaje de comedia animada eres?",
@@ -8,7 +9,145 @@
   {
     "title": "¿Qué género de videojuego encaja contigo?",
     "author": "King",
-    "description": "Test de personalidad GVG (GENRE OF VIDEO GAMES)",
+    "description": "Test de personalidad GVG (GENDER OF VIDEO GAMES)",
     "file_url": "https://raw.githubusercontent.com/kingorange6781-a11y/King-test-store/refs/heads/main/Personalidad_12.json"
+  },
+  {
+    "title": "¿Qué tipo de creador de contenido serías?",
+    "author": "King",
+    "description": "Test personalidad YCC (youtube creator content",
+    "file_url": "https://raw.githubusercontent.com/kingorange6781-a11y/King-test-store/refs/heads/main/Personalidad_13.json"
+  },
+  {
+    "title": "¿Qué rol tendrías en una misión de equipo?",
+    "author": "King",
+    "description": "Pendiente",
+    "file_url": "https://raw.githubusercontent.com/kingorange6781-a11y/King-test-store/refs/heads/main/Personalidad_14.json"
+  },
+  {
+    "title": "¿Qué fortaleza mental se te da más naturalmente?",
+    "author": "King",
+    "description": "Pendiente",
+    "file_url": "https://github.com/kingorange6781-a11y/King-test-store/raw/refs/heads/main/Personalidad_15.json"
+  },
+  {
+    "title": "¿Qué tipo de energía social tienes?",
+    "author": "King",
+    "description": "Pendiente",
+    "file_url": "https://raw.githubusercontent.com/kingorange6781-a11y/King-test-store/refs/heads/main/Personalidad_16.json"
+  },
+  {
+    "title": "¿Qué rol tendrías en una aventura espacial?",
+    "author": "King",
+    "description": "Pendiente",
+    "file_url": "https://raw.githubusercontent.com/kingorange6781-a11y/King-test-store/refs/heads/main/Personalidad_17.json"
+  },
+  {
+    "title": "¿Qué perfil tendrías en una aventura ficticia de supervivencia?",
+    "author": "King",
+    "description": "Pendiente",
+    "file_url": "https://raw.githubusercontent.com/kingorange6781-a11y/King-test-store/refs/heads/main/Personalidad_18.json"
+  },
+  {
+    "title": "¿Qué estilo de humor te representa?",
+    "author": "King",
+    "description": "Pendiente",
+    "file_url": "https://raw.githubusercontent.com/kingorange6781-a11y/King-test-store/refs/heads/main/Personalidad_19.json"
+  },
+  {
+    "title": "¿Qué personaje de Avatar: La leyenda de Aang serías?",
+    "author": "King",
+    "description": "Pendiente",
+    "file_url": "https://raw.githubusercontent.com/kingorange6781-a11y/King-test-store/refs/heads/main/Personalidad_20.json"
+  },
+  {
+    "title": "Cine",
+    "author": "King",
+    "description": "Pendiente",
+    "file_url": "https://raw.githubusercontent.com/kingorange6781-a11y/King-test-store/refs/heads/main/Quiz_11.json"
+  },
+  {
+    "title": "Serie y animacion",
+    "author": "King",
+    "description": "Pendiente",
+    "file_url": "https://raw.githubusercontent.com/kingorange6781-a11y/King-test-store/refs/heads/main/Quiz_12.json"
+  },
+  {
+    "title": "Musica",
+    "author": "King",
+    "description": "Pendiente",
+    "file_url": "https://raw.githubusercontent.com/kingorange6781-a11y/King-test-store/refs/heads/main/Quiz_13.json"
+  },
+  {
+    "title": "literatura",
+    "author": "King",
+    "description": "Pendiente",
+    "file_url": "https://raw.githubusercontent.com/kingorange6781-a11y/King-test-store/refs/heads/main/Quiz_14.json"
+  },
+  {
+    "title": "Ecologia y naturaleza",
+    "author": "King",
+    "description": "Pendiente",
+    "file_url": "https://raw.githubusercontent.com/kingorange6781-a11y/King-test-store/refs/heads/main/Quiz_15.json"
+  },
+  {
+    "title": "deportes",
+    "author": "King",
+    "description": "Pendiente",
+    "file_url": "https://raw.githubusercontent.com/kingorange6781-a11y/King-test-store/refs/heads/main/Quiz_16.json"
+  },
+  {
+    "title": "Arte y diseño",
+    "author": "King",
+    "description": "Pendiente",
+    "file_url": "https://raw.githubusercontent.com/kingorange6781-a11y/King-test-store/refs/heads/main/Quiz_17.json"
+  },
+  {
+    "title": "Mitologia",
+    "author": "King",
+    "description": "Pendiente",
+    "file_url": "https://raw.githubusercontent.com/kingorange6781-a11y/King-test-store/refs/heads/main/Quiz_18.json"
+  },
+  {
+    "title": "comida y cocina",
+    "author": "King",
+    "description": "Pendiente",
+    "file_url": "https://raw.githubusercontent.com/kingorange6781-a11y/King-test-store/refs/heads/main/Quiz_19.json"
+  },
+  {
+    "title": "transporte y vehículos",
+    "author": "King",
+    "description": "Pendiente",
+    "file_url": "https://raw.githubusercontent.com/kingorange6781-a11y/King-test-store/refs/heads/main/Quiz_20.json"
+  },
+  {
+    "title": "empanada prueba",
+    "author": "King",
+    "description": "Pendiente",
+    "file_url": "https://raw.githubusercontent.com/kingorange6781-a11y/King-test-store/refs/heads/main/Trash.json"
+  },
+  {
+    "title": "coming soon",
+    "author": "",
+    "description": "Pendiente",
+    "file_url": ""
+  },
+  {
+    "title": "coming soon",
+    "author": "",
+    "description": "Pendiente",
+    "file_url": ""
+  },
+  {
+    "title": "coming soon",
+    "author": "",
+    "description": "Pendiente",
+    "file_url": ""
+  },
+  {
+    "title": "Coming soon",
+    "author": "",
+    "description": "Pendiente",
+    "file_url": ""
   }
 ]
